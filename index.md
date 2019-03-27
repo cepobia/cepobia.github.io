@@ -1,5 +1,5 @@
 ---
-title: "Deja que tus datos hablen"
+title: "Hacemos que tus datos hablen"
 layout: splash
 author_profile: false
 header:

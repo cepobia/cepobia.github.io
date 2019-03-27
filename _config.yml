@@ -22,7 +22,7 @@ name                     : "CepoBIA"
 description              : "Empresa Ubicada en Cali, Colombia, Ofrecemos servicios de consultoria y entrenamiento en Business Intelligence y Analitica, Principalmente con tegonologias Microsoft como Power BI, Excel y SQLServer "
 url                      : "https://cepobia.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/blog" the subpath of your site, e.g.
-repository               : "manito969/manito969.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "cepobia/cepobia.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/logos/cepobia.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #/assets/images/simbolo80x80.png
 breadcrumbs              : true # true, false (default)
@@ -91,7 +91,7 @@ social:
   type                   : Organization #Person or Organization (defaults to Person)
   name                   : cepobia # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://linkedin.com/in/estebanlondono"
+    - "https://www.linkedin.com/company/cepobia"
     #- "https://twitter.com/manito969"
     #- "https://facebook.com/estebanlondonop"
     #- "https://instagram.com/manito969"
