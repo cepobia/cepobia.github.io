@@ -22,23 +22,21 @@ feature_row:
 ---
 ## Mision
 
-CepoBIA está aquí para empoderar a todo tipo de organizaciones en la extraccion de valor a partir de sus datos y los datos alrededor de su actividad
+Entregamos soluciones agiles que transforman tus datos en decisiones
 
 ## Vision
 
-Ser un referente por excelencia en el arte del análisis de datos, conjugando así una gran pasión por el trabajo, la docencia y la investigación, junto a una permanente innovación y la continua búsqueda de las mejores metodologías y prácticas de gestión.
+Ser el referente en Latinoamérica en el arte del análisis de datos. 
 
 ## Valores
 
+- Si la Solucion es difícil de explicar, es una mala idea.
 - Hecho es mejor que perfecto
 - Hermoso es mejor que feo.
 - Explícito es mejor que implícito.
 - Simple es mejor que complejo.
 - Complejo es mejor que complicado.
-- Sencillo es mejor que anidado.
 - Los casos especiales no son lo suficientemente especiales para romper las reglas.
-- Si la Solucion es difícil de explicar, es una mala idea.
-- Si la Solucion es fácil de explicar, puede ser una buena idea.
 
 ## Nuestro Equipo
 
