@@ -24,7 +24,7 @@ feature_row:
 ---
 ## Mision
 
-Entregamos soluciones agiles que transforman tus datos en decisiones
+Entregamos soluciones agiles que transforman tus datos en decisiones.
 
 ## Vision
 
