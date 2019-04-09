@@ -11,14 +11,16 @@ header:
 feature_row:
   - image_path: /assets/images/equipo/esteban.jpg
     title: "Esteban Londoño"
-    excerpt: "Experto Busines Intelligence"
+    excerpt: "Consultor Business Intelligence"
   - image_path: assets/images/equipo/Juan.jpg
     title: "Juan Gabriel Sanchez"
-    excerpt: "Gerente de Proyectos"
+    excerpt: "Consultor de Negocio"
   - image_path: assets/images/equipo/vanessa.jpg
     title: "Vanessa Astroz"
-    excerpt: "Negocios"
-
+    excerpt: "Consultor de Negocio"
+  - image_path: assets/images/equipo/trochez.jpeg
+    title: "Juan David Trochez"
+    excerpt: "Consultor Business Intelligence"
 ---
 ## Mision
 
