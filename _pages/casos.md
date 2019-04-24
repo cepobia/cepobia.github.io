@@ -13,7 +13,7 @@ excerpt: "Te Mostramos como son nuestras soluciones en diferentes contextos de a
 
 ## Manufactura - Analisis Ejecutivo
 
-<iframe width="1200" height:"800"  frameborder="1" src="https://app.powerbi.com/view?r=eyJrIjoiYTYxMzllYjQtYjU5NS00MTM4LTlmMjEtMTY0NzVkM2U4OGE4IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9"></iframe>
+<iframe width="1200" height="800" frameborder="1" src="https://app.powerbi.com/view?r=eyJrIjoiYTYxMzllYjQtYjU5NS00MTM4LTlmMjEtMTY0NzVkM2U4OGE4IiwidCI6IjdlY2M4YWEwLTgzMGUtNGQ4Ni1hZjc4LTgzYTNkY2MyNjIzOCIsImMiOjZ9"></iframe>
 
 ## Gobierno - Analisis de Uso de Armas
 
