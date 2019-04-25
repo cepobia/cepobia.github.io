@@ -1,5 +1,5 @@
 ---
-classes: wide
+classes: splash
 title: "Que es Power BI"
 header:
   overlay_image: assets/images/wide/wpbi.jpg
@@ -14,7 +14,7 @@ Power BI es un **ecosistema** dentro de un ecosistema (**Universo Microsoft**) c
 
 Power BI es el resultado de la evolución tanto de las tecnologías de Microsoft como de las necesidades del mercado en el **Análisis de Datos** Power BI nace de excel y SQL Server Anlysis Services.
 
-![](assets/images/post/queespowerbi/PBIhistory.png)
+![](/assets/images/post/queespowerbi/PBIhistory.png)
 
 Este **ecosistema** se podría agrupar de la siguiente manera, aunque es necesario hacer énfasis que este está en una constante evolución y esta agrupación puede quedar obsoleta en poco tiempo.
 
