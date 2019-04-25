@@ -1,10 +1,10 @@
 ---
 title: "Que es Power BI"
-exerpt: "Que es Power BI, Cual es su relación con Excel y SQL Server"
+excerpt: "Que es Power BI, Cual es su relación con Excel y SQL Server"
+author: Esteban Londono
 header:
   overlay_image: assets/images/wide/wpbi.jpg
   teaser: assets/images/logos/IPBI.jpg
-author: Esteban Londono
 categories:
   - Introduccion
 ---
