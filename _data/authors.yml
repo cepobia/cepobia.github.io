@@ -1,0 +1,31 @@
+#
+
+Esteban Londono:
+  name        : "Esteban Londono"
+  bio         : "Business Intelligence Expert."
+  avatar      : "/assets/images/equipo/esteban.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:esteban.londono@cepobia.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/estebanlondono/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/manito969"
+
+Juan David Trochez:
+  name        : "Juan David Trochez"
+  bio         : "Consultor Junior"
+  avatar      : "assets/images/equipo/trochez.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:juan.trochez@cepobia.com"
+   # - label: "Linkedin"
+    #  icon: "fab fa-fw fa-linkedin"
+     # url: "https://www.linkedin.com/in/estebanlondono/"
+   # - label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+     # url: "https://github.com/manito969"

@@ -2,12 +2,12 @@
 classes: wide
 title: "Que es Power BI"
 header:
-  overlay_image: assets/images/wmpbi.png
-  teaser: assets/images/cmicrosoft.jpg
-  
-exerpt: "Que es Power BI, Caul su relación excel y SQL Server"
+  overlay_image: assets/images/wide/wpbi.jpg
+  teaser: assets/images/logos/IPBI.jpg
+exerpt: "Que es Power BI, Cual es su relación con Excel y SQL Server"
+author: Esteban Londono
 categories:
-  - Entrenamiento
+  - Introudccion
 ---
 #¿Que es Power BI?
 
