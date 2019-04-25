@@ -1,14 +1,12 @@
 ---
-
-classes: wide
 title: "Que es Power BI"
+exerpt: "Que es Power BI, Cual es su relación con Excel y SQL Server"
 header:
   overlay_image: assets/images/wide/wpbi.jpg
   teaser: assets/images/logos/IPBI.jpg
-exerpt: "Que es Power BI, Cual es su relación con Excel y SQL Server"
 author: Esteban Londono
 categories:
-  - Introudccion
+  - Introduccion
 ---
 
 Power BI es un **ecosistema** dentro de un ecosistema (**Universo Microsoft**) compuesto por una serie de productos específicos, así como a un término paraguas no oficial para su conjunto de herramientas de autoservicio Business Intelligence que se incluye con Microsoft Excel y otros productos complementarios que trataremos en otro [post]().

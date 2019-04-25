@@ -305,7 +305,7 @@ defaults:
       type: posts
     values:
       layout:
-      author_profile: 
+      author_profile: false
 
   # _cursos
   - scope:

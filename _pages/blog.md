@@ -1,8 +1,8 @@
 ---
 title: Blog
-layout: archive
+layout: post
 permalink: /blog/
-author_profile: true
+author_profile: 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
