@@ -325,3 +325,6 @@ collections:
   equipo:
     output: true
     permalink: /:collection/:path/
+  Blog:
+    output: true
+    permalink: /:collection/:path/    

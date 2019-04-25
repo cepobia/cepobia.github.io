@@ -1,9 +1,9 @@
 ---
 title: Blog
-layout: single
-classes : wide
+layout: splash
+#classes: wide
+#type: grid
 permalink: /blog/
-author_profile: 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
