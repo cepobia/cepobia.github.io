@@ -1,6 +1,7 @@
 ---
 title: Blog
-layout: post
+layout: single
+class: wide
 permalink: /blog/
 author_profile: 
 header:
