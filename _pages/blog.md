@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: splash
+layout: archive
 permalink: /blog/
 author_profile: true
 header:

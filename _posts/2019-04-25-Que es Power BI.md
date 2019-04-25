@@ -1,5 +1,6 @@
 ---
-classes: splash
+
+classes: wide
 title: "Que es Power BI"
 header:
   overlay_image: assets/images/wide/wpbi.jpg

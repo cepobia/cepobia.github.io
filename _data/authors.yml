@@ -1,7 +1,10 @@
+# /_data/authors.yml
+
 Esteban Londono:
   name        : "Esteban Londono"
-  bio         : "Business Intelligence Expert."
   avatar      : "/assets/images/equipo/esteban.jpg"
+  bio         : "Business Intelligence Expert."
+  location    : "Cali, Colombia"  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
