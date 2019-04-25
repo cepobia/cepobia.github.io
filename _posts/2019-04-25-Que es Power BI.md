@@ -3,7 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 author: Esteban Londono
-title: "Que es Power BI"
+title: "¿Que es Power BI?"
 excerpt: "Que es Power BI, Cual es su relación con Excel y SQL Server"
 header:
   overlay_image: assets/images/wide/wpbi.jpg
