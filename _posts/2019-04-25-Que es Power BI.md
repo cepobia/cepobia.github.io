@@ -9,11 +9,11 @@ author: Esteban Londono
 categories:
   - Introudccion
 ---
-#¿Que es Power BI?
 
 Power BI es un **ecosistema** dentro de un ecosistema (**Universo Microsoft**) compuesto por una serie de productos específicos, así como a un término paraguas no oficial para su conjunto de herramientas de autoservicio Business Intelligence que se incluye con Microsoft Excel y otros productos complementarios que trataremos en otro [post]().
 
 Power BI es el resultado de la evolución tanto de las tecnologías de Microsoft como de las necesidades del mercado en el **Análisis de Datos** Power BI nace de excel y SQL Server Anlysis Services.
+
 ![](assets/images/post/queespowerbi/PBIhistory.png)
 
 Este **ecosistema** se podría agrupar de la siguiente manera, aunque es necesario hacer énfasis que este está en una constante evolución y esta agrupación puede quedar obsoleta en poco tiempo.
