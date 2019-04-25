@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: single
-class: wide
+classes : wide
 permalink: /blog/
 author_profile: 
 header:
