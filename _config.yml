@@ -137,9 +137,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cepobia"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "(+57)318 388 31 45"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://api.whatsapp.com/send?phone=573183883145&text=Hola,%quiero%conocer%mas%sobre%sus%servicios"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
