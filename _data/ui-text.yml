@@ -74,7 +74,7 @@ es: &DEFAULT_ES
   comments_title             :
   more_label                 : "Ver más"
   related_label              : "Podrías ver también"
-  follow_label               : "Seguir:"
+  follow_label               : "Contacto:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Sitio web"
