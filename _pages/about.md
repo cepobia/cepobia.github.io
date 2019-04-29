@@ -15,9 +15,6 @@ feature_row:
   - image_path: assets/images/equipo/Juan.jpg
     title: "Juan Gabriel Sanchez"
     excerpt: "Consultor de Negocio"
-  - image_path: assets/images/equipo/vanessa.jpg
-    title: "Vanessa Astroz"
-    excerpt: "Consultor de Negocio"
   - image_path: assets/images/equipo/trochez.jpeg
     title: "Juan David Trochez"
     excerpt: "Consultor Business Intelligence"
