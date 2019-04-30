@@ -27,6 +27,14 @@ feature_row2:
     btn_label: "Dejate Enseñar"
 feature_row3:
   - image_path: /assets/images/cuadrado/BI.jpg
+    alt: "BI como Servicio"
+    title: "BI como Servicio"
+    excerpt: "Te damos acceso a una pantalla donde encontraras el analisis de las principales variables que impactan el mercado de tu negocio"
+    url: "/casos/"
+    btn_class: "btn--primary"
+    btn_label: "Suscribete"
+feature_row4:
+  - image_path: /assets/images/cuadrado/BI.jpg
     alt: "Casos de Exito"
     title: "Demos"
     excerpt: "Conoce nuestro trabajo, un Dashboard Vale más que mil palabras. "
@@ -34,8 +42,6 @@ feature_row3:
     btn_class: "btn--primary"
     btn_label: "Dejate impactar"
 ---
-
-
 {% include feature_row %}
 
 {% include feature_row id="feature_row1" type="left" %}
@@ -43,3 +49,5 @@ feature_row3:
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}

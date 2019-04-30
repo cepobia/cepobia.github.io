@@ -4,12 +4,15 @@ main:
     url: /consultoria/
   - title: "Entrenamiento"
     url: /entrenamiento/
+  - title: "BI como Servicio"
+    url: /BIaaS/
   - title: "Demos"
     url: /casos/
   - title: "Blog"
     url: /blog/
   - title: "Nosotros"
     url: /about/
+
 
 
 
