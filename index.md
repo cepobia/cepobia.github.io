@@ -34,7 +34,7 @@ feature_row3:
     btn_class: "btn--primary"
     btn_label: "Suscribete"
 feature_row4:
-  - image_path: /assets/images/cuadrado/BI.jpg
+  - image_path: /assets/images/cuadrado/BI5.jpg
     alt: "Casos de Exito"
     title: "Demos"
     excerpt: "Conoce nuestro trabajo, un Dashboard Vale más que mil palabras. "

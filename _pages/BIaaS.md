@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"  
-  overlay_image: assets/images/wide/wdevices.png
+  overlay_image: assets/images/wide/devices.png
 
 feature_row1:
   - image_path: /assets/images/cuadrado/azucar.png
@@ -30,3 +30,7 @@ feature_row3:
     btn_class: "btn--primary"
     btn_label: "En Construccion"
 ---
+
+{% include feature_row id="collections" type="left" %}
+
+{% include feature_row %}
