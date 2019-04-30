@@ -12,7 +12,7 @@ feature_row:
   - image_path: /assets/images/cuadrado/azucar.jpg
     title: "Sector Azucarero Colombiano"
     excerpt: "Encuentra los datos del Mercado Azucarero Colombiano aqui (Precios, Clima, Tasa de cambio, Aranceles, Previsiones)"
-    url: ""
+    url: "/construccion/"
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesion"
 feature_row2:
@@ -32,8 +32,6 @@ feature_row3:
 ---
 
 {% include feature_row %}
-
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
 {% include feature_row id="feature_row3" type="left" %}
-
