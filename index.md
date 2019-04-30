@@ -30,7 +30,7 @@ feature_row3:
     alt: "BI como Servicio"
     title: "BI como Servicio"
     excerpt: "Te damos acceso a una pantalla donde encontraras el analisis de las principales variables que impactan el mercado de tu negocio"
-    url: "/casos/"
+    url: "/BIaaS/"
     btn_class: "btn--primary"
     btn_label: "Suscribete"
 feature_row4:
