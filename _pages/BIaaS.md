@@ -1,5 +1,5 @@
 ---
-title: "BI como Servicio"
+title: "Inteligencia de Negocios como Servicio"
 layout: splash
 permalink: /BIaaS/
 author_profile: true
