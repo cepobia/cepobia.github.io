@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"  
   overlay_image: assets/images/wide/devices.png
 
-feature_row:
+feature_row1:
   - image_path: /assets/images/cuadrado/azucar2.jpg
     title: "Sector Azucarero Colombiano"
     excerpt: "Encuentra los datos del Mercado Azucarero Colombiano aqui (Precios, Clima, Tasa de cambio, Aranceles, Previsiones)"
