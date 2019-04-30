@@ -9,7 +9,7 @@ header:
   overlay_image: assets/images/wide/devices.png
 
 feature_row:
-  - image_path: /assets/images/cuadrado/azucar.jpg
+  - image_path: /assets/images/cuadrado/azucar2.jpg
     title: "Sector Azucarero Colombiano"
     excerpt: "Encuentra los datos del Mercado Azucarero Colombiano aqui (Precios, Clima, Tasa de cambio, Aranceles, Previsiones)"
     url: "/construccion/"
