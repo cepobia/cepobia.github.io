@@ -4,10 +4,10 @@ classes: wide
 author_profile: true
 author: Esteban Londono
 title: "Guia rápida para empezar con Power BI"
-excerpt: ""
+excerpt: "Cuatro pasos sencillos y rápidos para crear información rápida sobre sus datos que le ayudará a tomar mejores decisiones de negocios"
 header:
   overlay_image: assets/images/wide/wpbi.jpg
-  teaser: assets/images/logos/IPBI.jpg
+  teaser: assets/images/logos/PowerBI-start.png
 categories:
   - Introduccion
 ---
@@ -27,7 +27,6 @@ La configuración de Power BI se puede hacer en cuatro pasos simples:
 
 En las siguientes secciones, lo guiaremos a través de estos cuatro pasos con mayor detalle, así que lea para obtener más información.
 
-
 ## Paso 1: Elige la versión de Power BI que vas a utilizar.
 La configuración de Power BI comienza con la determinación de la versión que va a utilizar.
 
@@ -45,12 +44,13 @@ Nota: Si su organización ya está utilizando una licencia de Office 365 Enterpr
 
 Una vez que se haya configurado con la versión correcta que desea utilizar, ¡es hora de cargar sus datos!
 
-![](/assets/images/post/GuiaAapida/ObtenerDatos.png)
+![](/assets/images/post/GuiaRapida/ObtenerDatos.png)
 
 Desde la página de bienvenida que ve arriba, puede importar o conectarse a sus datos a través de sus archivos o bases de datos que están guardados en su computadora. Haga clic en el botón "Obtener" debajo del tipo de datos que desea cargar. Luego, elija entre las distintas opciones que están disponibles para usted. Tenga en cuenta que puede extraer datos de varias fuentes, como archivos locales, archivos de OneDrive, archivos de su sitio de SharePoint y más.
 
 Después de hacer clic en "Abrir", verá que su nombre de archivo aparece como una pestaña debajo de "Tableros" en el lado izquierdo de su pantalla (porque Power BI creará un tablero para usted con el mismo nombre que su archivo original), o como un icono debajo de la barra de búsqueda. Vea a continuación un ejemplo:
-![](/assets/images/post/GuiaAapida/sample.png)
+
+![](/assets/images/post/GuiaRapida/sample.png)
 
 ## Paso 3: Comience a explorar su conjunto de datos
 
@@ -62,7 +62,7 @@ Digamos que los datos que ha cargado muestran información de ventas  Y, por el 
 
 Cuando presiona ‘enter’, Power BI generará un gráfico que le muestra qué contenido desea ver. Simple como eso. Si desea mantener esos datos para poder consultarlos con frecuencia, haga clic en el ícono de pin, que fijará ese conjunto de datos en su panel de control para que pueda verlos en tiempo real, en cualquier momento.
 
-![](/assets/images/post/GuiaAapida/nlp.png)
+![](/assets/images/post/GuiaRapida/nlp.png)
 
 ## Paso 4: Crea tu primer informe
 
