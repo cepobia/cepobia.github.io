@@ -301,7 +301,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout:
+      layout: splash
       author_profile: false
 
   # _cursos
@@ -309,7 +309,7 @@ defaults:
       path: ""
       type: post
     values:
-      layout: splash
+      layout: single
       author_profile: 
       share: true
       related: true
