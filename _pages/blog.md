@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: splash
+layout: categories
 #classes: wide
 #type: grid
 permalink: /blog/
@@ -19,9 +19,3 @@ excerpt: "Este espacio es acerca del maravilloso mundo del business Intelligence
 
 ***Si es así, entonces este blog es definitivamente para ti!***
 
-<div class="grid__wrapper">
-  {% assign posts = site.posts %}
-  {% for post in posts %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>

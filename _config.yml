@@ -301,7 +301,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: 
       author_profile: false
 
   # _cursos
