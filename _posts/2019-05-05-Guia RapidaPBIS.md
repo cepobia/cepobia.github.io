@@ -7,7 +7,7 @@ title: "Guia rápida para empezar con Power BI"
 excerpt: "Cuatro pasos sencillos y rápidos para crear información rápida sobre sus datos que le ayudará a tomar mejores decisiones de negocios"
 header:
   overlay_image: assets/images/wide/wpbi.jpg
-  teaser: assets/images/logos/PowerBI-start.png
+  teaser: assets/images/cuadrado/PowerBI-start.png
 categories:
   - Introduccion
 ---
@@ -50,7 +50,6 @@ Desde la página de bienvenida que ve arriba, puede importar o conectarse a sus 
 
 Después de hacer clic en "Abrir", verá que su nombre de archivo aparece como una pestaña debajo de "Tableros" en el lado izquierdo de su pantalla (porque Power BI creará un tablero para usted con el mismo nombre que su archivo original), o como un icono debajo de la barra de búsqueda. Vea a continuación un ejemplo:
 
-![](/assets/images/post/GuiaRapida/sample.png)
 
 ## Paso 3: Comience a explorar su conjunto de datos
 
