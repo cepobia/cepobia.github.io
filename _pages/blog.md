@@ -19,33 +19,9 @@ excerpt: "Este espacio es acerca del maravilloso mundo del business Intelligence
 
 ***Si es así, entonces este blog es definitivamente para ti!***
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
-
-{{ content }}
-
-{% assign categories_max = 0 %}
-{% for category in site.categories %}
-  {% if category[1].size > categories_max %}
-    {% assign categories_max = category[1].size %}
-  {% endif %}
-{% endfor %}
-
-{% for i in (1..categories_max) reversed %}
-  {% for category in site.categories %}
-    {% if category[1].size == i %}
-      <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
-        <h2 class="archive__subtitle">{{ category[0] }}</h2>
-        <div class="entries-{{ page.entries_layout | default: 'list' }}">
-          {% for post in category.last %}
-            {% include archive-single.html type=page.entries_layout %}
-          {% endfor %}
-        </div>
-        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Regresar' }} &uarr;</a>
-      </section>
-    {% endif %}
+<div class="grid__wrapper">
+  {% assign posts = site.post %}
+  {% for post in posts %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
-{% endfor %}
+</div>
