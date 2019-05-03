@@ -11,19 +11,36 @@ header:
 excerpt: "Este espacio es acerca del maravilloso mundo del business Intelligence y la ciencia de datos. En este compartiremos tips, conocimientos, tutoriales etc.. que seran utiles en tu desarrollo profesional"
 ---
 
-¿Tiene dificultades para proporcionar informes y análisis más precisos?
-¿No puede identificar las últimas tendencias, las condiciones del mercado y responder rápidamente a los cambios?
-¿Tiene problemas para optimizar el proceso interno de negocios y tomar decisiones?
-¿Qué hay de obtener importantes informes de negocios?
-¿Es un desafío convertir los datos en bruto en información procesable?
+- ¿Tiene dificultades para proporcionar informes y análisis más precisos?
+- ¿No puede identificar las últimas tendencias, las condiciones del mercado y responder rápidamente a los cambios?
+- ¿Tiene problemas para optimizar el proceso interno de negocios y tomar decisiones?
+- ¿Qué hay de obtener importantes informes de negocios?
+- ¿Es un desafío convertir los datos en bruto en información procesable?
 
-### Si es así, entonces este blog es definitivamente para ti!
+***Si es así, entonces este blog es definitivamente para ti!***
 
-Bueno, en tal escenario, el poderoso sistema de Business Intelligence puede venir a rescatar.
+{{ content }}
 
-Gartner ha reconocido a Microsoft como líder en plataformas de análisis y BI durante 11 años consecutivos.
+{% assign categories_max = 0 %}
+{% for category in site.categories %}
+  {% if category[1].size > categories_max %}
+    {% assign categories_max = category[1].size %}
+  {% endif %}
+{% endfor %}
 
-Antes de profundizar, comencemos con lo básico.
+<ul class="taxonomy__index">
+  {% for i in (1..categories_max) reversed %}
+    {% for category in site.categories %}
+      {% if category[1].size == i %}
+        <li>
+          <a href="#{{ category[0] | slugify }}">
+            <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
 
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
