@@ -1,7 +1,7 @@
 ---
 title: Blog
 layout: categories
-#classes: wide
+classes: wide
 #type: grid
 permalink: /blog/
 header:
