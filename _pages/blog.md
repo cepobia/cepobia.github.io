@@ -19,6 +19,12 @@ excerpt: "Este espacio es acerca del maravilloso mundo del business Intelligence
 
 ***Si es así, entonces este blog es definitivamente para ti!***
 
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
 {{ content }}
 
 {% assign categories_max = 0 %}
@@ -57,4 +63,3 @@ excerpt: "Este espacio es acerca del maravilloso mundo del business Intelligence
     {% endif %}
   {% endfor %}
 {% endfor %}
-
