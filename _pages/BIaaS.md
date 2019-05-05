@@ -8,10 +8,12 @@ header:
   overlay_filter: "0.5"  
   overlay_image: assets/images/wide/BIasServices.png
 
+excerpt: "Encuentra todos lo datos de los principales sectores economicos colombianos, en solo lugar. "
+
 feature_row1:
   - image_path: /assets/images/cuadrado/azucar2.jpg
     title: "Sector Azucarero Colombiano"
-    excerpt: "Encuentra los datos del Mercado Azucarero Colombiano aqui (Precios, Clima, Tasa de cambio, Aranceles, Previsiones)"
+    excerpt: "Encuentra la Informacion del Mercado Azucarero Colombiano en un solo lugar (Precios, Clima, Tasa de cambio, Aranceles, Previsiones)"
     url: "/construccion/"
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesion"
