@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"  
-  overlay_image: assets/images/wide/devices.png
+  overlay_image: assets/images/wide/BIasServices.png
 
 feature_row1:
   - image_path: /assets/images/cuadrado/azucar2.jpg
