@@ -19,8 +19,6 @@ feature_row:
     excerpt: "Consultor Business Intelligence"
 ---
 
-![](/assets/images/cuadrado/nuestraMision.png)
-
 ## Nuestra Mision
 
 Entregamos soluciones agiles que transforman datos en decisiones.
