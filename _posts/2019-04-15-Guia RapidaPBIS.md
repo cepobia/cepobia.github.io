@@ -6,6 +6,8 @@ author: Esteban Londono
 title: "Guia rápida para empezar con Power BI"
 excerpt: "Cuatro pasos sencillos y rápidos para crear información rápida sobre sus datos que le ayudará a tomar mejores decisiones de negocios"
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: assets/images/wide/wpbi.jpg
   teaser: assets/images/cuadrado/PowerBI-start.png
 categories:

@@ -6,6 +6,8 @@ author: Esteban Londono
 title: "¿Que es Power BI?"
 excerpt: "Que es Power BI, Cual es su relación con Excel y SQL Server"
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: assets/images/wide/wpbi.jpg
   teaser: assets/images/logos/IPBI.jpg
 categories:
