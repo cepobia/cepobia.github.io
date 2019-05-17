@@ -3,7 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 author: Esteban Londono
-title: "Como tener tener exito con las inicitivas de Business Intelligence (BI)"
+title: "Como tener tener exito con las iniciativas de Business Intelligence (BI)"
 excerpt: "A pesar de invertir grandes cantidades de dinero en iniciativas de BI, a menudo no tenemos la información neceseria para la toma decisiones"
 header:
   overlay_color: "#000"
