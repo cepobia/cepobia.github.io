@@ -3,7 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 author: Esteban Londono
-title: "4 Pasos Necesarios para uqe Business Intelligence (BI) Funcione"
+title: "4 Pasos Necesarios para tener exito con las Inicitivas de Business Intelligence (BI)"
 excerpt: " A pesar de invertir Grandes Cantidades de Dinero en iniciativas de BI, los ejecutivos a menudo se presentan con las manos vacías cuando buscan la información que necesitan para tomar decisiones bien informadas"
 header:
   overlay_color: "#000"
