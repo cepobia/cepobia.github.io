@@ -3,8 +3,8 @@ layout: single
 classes: wide
 author_profile: true
 author: Esteban Londono
-title: "4 Pasos necesarios para tener exito con las inicitivas de Business Intelligence (BI)"
-excerpt: " A pesar de invertir grandes cantidades de dinero en iniciativas de BI, A menudo  no tenemos la información que neceseria para la toma decisiones"
+title: "Como tener tener exito con las inicitivas de Business Intelligence (BI)"
+excerpt: "A pesar de invertir grandes cantidades de dinero en iniciativas de BI, a menudo no tenemos la información neceseria para la toma decisiones"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
