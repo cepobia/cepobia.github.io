@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    text-align: center;
+  }
+  .intro h2 {
+    text-align: center; 
+  }
+  .entry {
+    width: 300px ;
+    margin-left: auto ;
+    margin-right: auto ;
+  }
+  .divider h2 {
+    text-align: center; 
+  }
+  .create {
+    width: 300px ;
+    margin-left: auto ;
+    margin-right: auto ;
+  }
