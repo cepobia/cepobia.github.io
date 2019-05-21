@@ -1,7 +1,7 @@
 ---
 title: "Login"
 layout: splash
-permalink: /BIaaS/
+permalink: /Login/
 author_profile: true
 header:
   overlay_color: "#000"
