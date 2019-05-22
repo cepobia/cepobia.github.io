@@ -28,3 +28,4 @@ excerpt: "Te Mostramos como son nuestras soluciones en diferentes contextos de a
 <iframe width="1200" height="800" frameborder="0" src="https://app.powerbi.com/view?r=eyJrIjoiZWY0ZDQ2OWYtY2VkZi00ZmM5LWFiZWUtMWNhZWU0NDc2N2RjIiwidCI6IjA0ZWM2MTA5LTRjNzktNGM3My1hZTcxLWE0NzRjMDlhMWY1YSJ9"></iframe>
 
 ## Analisis de Produccion Agricola (Cultivo Caña)
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5f0eaa2d-5368-470f-a342-f88b89fe27de&groupId=a6b6e14a-c51d-4713-a66c-9b5d2d1b799f&autoAuth=true&ctid=635d61c7-0e25-4953-a017-5fe70e21d5cd" frameborder="" allowFullScreen="true"></iframe>
