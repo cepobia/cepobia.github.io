@@ -1,0 +1,99 @@
+.example {
+    padding: 20px;
+    color: white;
+}
+/* Extra small devices (phones, 450px and down) */
+@media (max-width: 775.98px) {
+    .mobile {
+        display: block;
+    }
+
+    .tablet, .monitor, .wide {
+        display: none;
+    }
+}
+
+/* Small devices*/
+@media (max-width: 824.98px) and (min-width: 776px) {
+    .tablet, .monitor, .wide {
+        display: none;
+    }
+
+    .mobile {
+        display: block;
+    }
+}
+
+
+/* Medium devices (landscape tablets, 500px and up) */
+@media (max-width: 1299.98px) and (min-width: 825px) {
+    .mobile, .monitor, .wide {
+        display: none;
+    }
+
+    .tablet {
+        display: block;
+    }
+}
+
+/* Large devices */
+@media (max-width: 1699.98px) and (min-width: 1300px) {
+    .mobile, .tablet,.wide {
+        display: none;
+    }
+
+    .motior {
+        display: block;
+    }
+}
+
+/* Extra Large devices (laptops/desktops, 1000px and up) */
+@media (min-width: 1700px) {
+    .mobile, .tablet, .monitor {
+        display: none;
+    }
+
+    .wide {
+        display: block;
+    }
+}
+
+
+/* FOOTER */
+#footer {
+    clear: both;
+    padding-top:10px; 
+}
+
+.pie {
+    clear: both;
+    color: #393130;
+    font-family: Arial;
+    font-size: 11px;
+    height: 40px;
+    margin: 0 auto;
+    position: relative;
+    text-align: left;
+    width: 100%;
+}
+a.pie:link {
+	font-family: Arial;
+	font-size: 11px;
+	color: #393130;
+	text-decoration:none;
+	padding-top:0;
+}
+a.pie:link:hover{text-decoration:underline;}
+.separadorFooter
+{
+    width:auto;
+    margin-bottom:15px; 
+    height: 1px;
+    color: #ccc;
+    margin-top:15px;
+    border-style: solid none none;
+    border-width: 1px medium medium;
+}
+
+.tableFooter{padding-bottom:20px;margin-left:25px;}
+.pie .nameCompany, #nomUsuario{font-weight:bold;}
