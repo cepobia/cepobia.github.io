@@ -7,9 +7,17 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/wide/wbinary.png
 
-excerpt: 'Consultoría y entrenamiento en proyectos de Business Intelligence y Análitica'
+excerpt: 'Consultoría, entrenamiento y desarrollo de aplicaciones de Business Intelligence y Analítica'
 
 feature_row1:
+  - image_path: /assets/images/logos/Biapp.png
+    alt: "BI como Servicio"
+    title: "Biapps"
+    excerpt: "Te damos acceso a una pantalla donde encontraras el analisis de las principales variables que impactan el mercado de tu negocio"
+    url: "/BIaaS/"
+    btn_class: "btn--primary"
+    btn_label: "Busca tu sector"
+feature_row2:
   - image_path: /assets/images/cuadrado/BI3.jpg
     alt: "Consultoria"
     title: "Consultoría"
@@ -17,7 +25,7 @@ feature_row1:
     url: "/consultoria/"
     btn_class: "btn--primary"
     btn_label: "Dejate Guiar"
-feature_row2:
+feature_row3:
   - image_path: /assets/images/cuadrado/capacitacion.jpg
     alt: "Entrenamiento"
     title: "Entrenamiento"
@@ -25,14 +33,6 @@ feature_row2:
     url: "/entrenamiento/"
     btn_class: "btn--primary"
     btn_label: "Dejate Enseñar"
-feature_row3:
-  - image_path: /assets/images/cuadrado/BI.jpg
-    alt: "BI como Servicio"
-    title: "BI como Servicio"
-    excerpt: "Te damos acceso a una pantalla donde encontraras el analisis de las principales variables que impactan el mercado de tu negocio"
-    url: "/BIaaS/"
-    btn_class: "btn--primary"
-    btn_label: "Suscribete"
 feature_row4:
   - image_path: /assets/images/cuadrado/BI5.jpg
     alt: "Casos de Exito"

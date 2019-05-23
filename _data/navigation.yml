@@ -4,7 +4,7 @@ main:
     url: /consultoria/
   - title: "Entrenamiento"
     url: /entrenamiento/
-  - title: BIAPP
+  - title: Biapp
     url: /BIaaS/  
   - title: "Demos"
     url: /casos/

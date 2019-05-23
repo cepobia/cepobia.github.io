@@ -11,29 +11,21 @@ header:
 excerpt: "Encuentra todos lo datos de los principales sectores economicos colombianos, en solo lugar. "
 
 feature_row1:
-  - image_path: /assets/images/cuadrado/azucar2.jpg
+  - image_path: /assets/images/logos/Biappsugar.png
     title: "Sector Azucarero Colombiano"
-    excerpt: "Encuentra la Informacion del Mercado Azucarero Colombiano en un solo lugar (Precios, Clima, Tasa de cambio, Aranceles, Previsiones)"
-    url: "/construccion/"
+    excerpt: "Encuentra la Informacion del Mercado Azucarero Colombiano en un solo lugar (Precios, Clima, Tasa de cambio, Aranceles, Previsiones, Noticias)"
+    url: "/Biapp/sugar/"
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesion"
 feature_row2:
-  - image_path: /assets/images/cuadrado/inmobiliario.png
-    title: "Sector Inmobiliario Colombiano"
-    excerpt: "Encuentra los datos del Mercado Inmobiliario Colombiano (Precios, Tasa de Interes, Valor Metro Cuadrado)"
+  - image_path: /assets/images/logos/Biappenergy.png
+    title: "Sector Energetico Colombiano"
+    excerpt: "Encuentra los datos del Mercado Energetico Colombiano (Precios, Clima, Proyecciones, Noticias)"
     url: "/construccion/"
     btn_class: "btn--primary"
-    btn_label: "En Construccion"
-feature_row3:
-  - image_path: /assets/images/cuadrado/turismo.gif
-    title: "Sector Turismo"
-    excerpt: "Encuentra los datos del Sector Turismo (Destinos, Proveedores, Tasa de cambio)"
-    url: "/construccion/"
-    btn_class: "btn--primary"
-    btn_label: "En Construccion"
+    btn_label: "Iniciar Sesion"
 ---
 
 {% include feature_row %}
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row3" type="left" %}
