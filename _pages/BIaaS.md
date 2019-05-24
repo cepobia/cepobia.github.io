@@ -14,14 +14,14 @@ feature_row1:
   - image_path: /assets/images/logos/Biappsugar.png
     title: "Sector Azucarero Colombiano"
     excerpt: "Encuentra la Informacion del Mercado Azucarero Colombiano en un solo lugar (Precios, Clima, Tasa de cambio, Aranceles, Previsiones, Noticias)"
-    url: "https://app.powerbi.com/reportEmbed?reportId=fe286cb2-3046-4a8d-af7d-40f6f017893a&autoAuth=true&ctid=635d61c7-0e25-4953-a017-5fe70e21d5cd"
+    url: ""
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesion"
 feature_row2:
   - image_path: /assets/images/logos/Biappenergy.png
     title: "Sector Energetico Colombiano"
     excerpt: "Encuentra los datos del Mercado Energético Colombiano (Precios, Clima, Proyecciones, Noticias)"
-    url: "https://app.powerbi.com/reportEmbed?reportId=9962c358-bd62-423b-999d-bc28c68f1edc&autoAuth=true&ctid=635d61c7-0e25-4953-a017-5fe70e21d5cd"
+    url: ""
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesion"
 ---
