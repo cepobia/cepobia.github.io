@@ -1,11 +1,11 @@
 # main links
 main:
+  - title: Biapp
+    url: /BIaaS/   
   - title: "Consultoria"
     url: /consultoria/
   - title: "Entrenamiento"
     url: /entrenamiento/
-  - title: Biapp
-    url: /BIaaS/  
   - title: "Demos"
     url: /casos/
   - title: "Blog"
