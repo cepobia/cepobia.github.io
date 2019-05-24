@@ -14,7 +14,7 @@ feature_row1:
   - image_path: /assets/images/logos/Biappsugar.png
     title: "Sector Azucarero Colombiano"
     excerpt: "Encuentra la Informacion del Mercado Azucarero Colombiano en un solo lugar (Precios, Clima, Tasa de cambio, Aranceles, Previsiones, Noticias)"
-    url: ""
+    url: "https://app.powerbi.com/reportEmbed?reportId=dac112da-55df-48fe-84b4-e9ef6bad72ec&appId=635faf16-26c7-457f-9ffb-22851c96eaab&autoAuth=true&ctid=635d61c7-0e25-4953-a017-5fe70e21d5cd"
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesion"
 feature_row2:
