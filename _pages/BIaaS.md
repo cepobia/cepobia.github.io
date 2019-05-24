@@ -20,8 +20,8 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/logos/Biappenergy.png
     title: "Sector Energetico Colombiano"
-    excerpt: "Encuentra los datos del Mercado Energetico Colombiano (Precios, Clima, Proyecciones, Noticias)"
-    url: "/construccion/"
+    excerpt: "Encuentra los datos del Mercado Energético Colombiano (Precios, Clima, Proyecciones, Noticias)"
+    url: "https://app.powerbi.com/reportEmbed?reportId=9962c358-bd62-423b-999d-bc28c68f1edc&autoAuth=true&ctid=635d61c7-0e25-4953-a017-5fe70e21d5cd"
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesion"
 ---
