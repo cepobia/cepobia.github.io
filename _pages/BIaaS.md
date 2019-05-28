@@ -18,9 +18,9 @@ feature_row1:
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesion"
 feature_row2:
-  - image_path: /assets/images/logos/Biappenergy.png
-    title: "Sector Energetico Colombiano"
-    excerpt: "Encuentra los datos del Mercado Energético Colombiano (Precios, Clima, Proyecciones, Noticias)"
+  - image_path: /assets/images/logos/Biappcoffee.png
+    title: "Sector Cafetero Colombiano"
+    excerpt: "Encuentra los datos del Mercado Cafetero Colombiano (Precios, Clima, Proyecciones, Noticias)"
     url: ""
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesion"

@@ -1,5 +1,5 @@
 ---
-title: "Hacemos que tus datos hablen"
+title: "Hacemos que los datos hablen"
 layout: splash
 author_profile: false
 header:
@@ -21,7 +21,7 @@ feature_row2:
   - image_path: /assets/images/cuadrado/BI3.jpg
     alt: "Consultoria"
     title: "Consultoría"
-    excerpt: "Te guiamos en el proceso de generacion de valor apartir de tus datos. Nuestro objetivo es entregarte una solucion clara que te permita comprender profundamente el comportamiento de tu organización."
+    excerpt: "Te guiamos en el proceso de generacion de valor a partir de tus datos. Nuestro objetivo es entregarte una solucion clara que te permita comprender profundamente el comportamiento de tu organización."
     url: "/consultoria/"
     btn_class: "btn--primary"
     btn_label: "Dejate Guiar"
