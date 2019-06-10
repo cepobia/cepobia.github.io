@@ -6,12 +6,12 @@ header:
   overlay_color: "#777779"
   overlay_filter: "0.5"
   overlay_image: /assets/images/wide/wbuildings.jpg
-excerpt: "Te guiamos en la generacion de valor a partir de tus datos"
-title: "Consultoria"
+excerpt: "Te guiamos en la generación de valor a partir de tus datos"
+title: "Consultoría"
 
 ---
 
- El principal objetivo de nuestros servicios de consultoria es la generacion de valor para nuestros clientes a partir de sus datos, nuestra metodología se basa en los siguientes pilares.
+El principal objetivo de nuestros servicios de consultoría es la generación de valor para nuestros clientes a partir de sus datos, nuestra metodología se basa en los siguientes pilares.
 
 1. La visualización facilita la comprensión de la información.
 2. Una visión unificada y validada de los datos es imprescindible.
@@ -37,6 +37,6 @@ Obtén nuevos conocimientos con paneles de control y reportes inteligentes que p
 
 ## Analítica
 
-Tus datos esconden patrones de los comportamientos de negocio y estos se pueden decifrar y extrapolar para generar ventajas competitivas. Nuestro objetivo es ayudarte a descubrir oportunidades y obtener información predictiva que te apoyará para tomar mejores decisiones y acciones.
+Tus datos esconden patrones de los comportamientos de negocio y estos se pueden descifrar y extrapolar para generar ventajas competitivas. Nuestro objetivo es ayudarte a descubrir oportunidades y obtener información predictiva que te apoyará para tomar mejores decisiones y acciones.
 
 - Ofrecemos servicios de analítica avanzada en base a la integración de datos heterogéneos y la construcción de modelos utilizando técnicas de Machine Learning.

@@ -13,9 +13,9 @@ excerpt: "Empoderate con informacion"
 
 Diseñamos experiencias de aprendizaje tanto en modalidad eLearning como presencial, con el objetivo de cubrir las principales necesidades de capacitación de nuestros clientes, facilitando así su viaje a través del mundo analítico
 
-Nuestros servicios de entrenamiento al igual que nuestras consultorias estan enfocados para que su equipo se empodere de los datos y disminuyan la dependencia del equipo de TI y tenga la capacidad de generar nuevos informes y reportes que soporten la toma de decisiones.
+Nuestros servicios de entrenamiento al igual que nuestras consultorías están enfocados para que su equipo se empodere de los datos y disminuyan la dependencia del equipo de TI y tenga la capacidad de generar nuevos informes y reportes que soporten la toma de decisiones.
 
-En el entrenamiento del Campo de BI nos especializamos en el stack de Microsoft porque son las herramientas más familares para los usuarios finales, En el campo de la analitica tenemos hibrido entre herramientas Microsfot y OpenSource porque el crecimiento de este campo se ha desarrollado en este tipo de herramientas.
+En el entrenamiento del Campo de BI nos especializamos en el stack de Microsoft porque son las herramientas más familiares para los usuarios finales, En el campo de la analítica tenemos hibrido entre herramientas Microsoft y Open Source porque el crecimiento de este campo se ha desarrollado en este tipo de herramientas.
 
 <div class="grid__wrapper">
   {% assign posts = site.cursos %}

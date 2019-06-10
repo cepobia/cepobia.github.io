@@ -13,7 +13,7 @@ feature_row1:
   - image_path: /assets/images/logos/Biapp.png
     alt: "BI como Servicio"
     title: "Biapps"
-    excerpt: "Te damos acceso a una pantalla donde encontraras el analisis de las principales variables que impactan el mercado de tu negocio"
+    excerpt: "Te damos acceso a una pantalla donde encontraras el análisis de las principales variables que impactan el mercado de tu negocio"
     url: "/BIaaS/"
     btn_class: "btn--primary"
     btn_label: "Busca tu sector"
@@ -21,26 +21,26 @@ feature_row2:
   - image_path: /assets/images/cuadrado/BI3.jpg
     alt: "Consultoria"
     title: "Consultoría"
-    excerpt: "Te guiamos en el proceso de generacion de valor a partir de tus datos. Nuestro objetivo es entregarte una solucion clara que te permita comprender profundamente el comportamiento de tu organización."
+    excerpt: "Te guiamos en el proceso de generación de valor a partir de tus datos. Nuestro objetivo es entregarte una solución clara que te permita comprender profundamente el comportamiento de tu organización."
     url: "/consultoria/"
     btn_class: "btn--primary"
-    btn_label: "Dejate Guiar"
+    btn_label: "Déjate Guiar"
 feature_row3:
   - image_path: /assets/images/cuadrado/capacitacion.jpg
     alt: "Entrenamiento"
     title: "Entrenamiento"
-    excerpt: "Capacitamos tus analistas de negocio en las mejores tecnologías y técnicas de analisis, empoderandolos para explotar al máximo los Datos "
+    excerpt: "Capacitamos tus analistas de negocio en las mejores tecnologías y técnicas de análisis, empoderándolos para explotar al máximo los datos"
     url: "/entrenamiento/"
     btn_class: "btn--primary"
-    btn_label: "Dejate Enseñar"
+    btn_label: "Déjate Enseñar"
 feature_row4:
   - image_path: /assets/images/cuadrado/BI5.jpg
     alt: "Casos de Exito"
     title: "Demos"
-    excerpt: "Conoce nuestro trabajo, un Dashboard Vale más que mil palabras. "
+    excerpt: "Conoce nuestro trabajo, un Dashboard vale más que mil palabras. "
     url: "/casos/"
     btn_class: "btn--primary"
-    btn_label: "Dejate impactar"
+    btn_label: "Déjate impactar"
 ---
 {% include feature_row %}
 
