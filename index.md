@@ -13,7 +13,7 @@ feature_row1:
   - image_path: /assets/images/logos/Biapp.png
     alt: "BI como Servicio"
     title: "Biapps"
-    excerpt: "Te damos acceso a una pantalla donde encontraras el análisis de las principales variables que impactan el mercado de tu negocio"
+    excerpt: "Te damos acceso a una pantalla donde encontrarás el análisis de las principales variables que impactan el mercado de tu negocio"
     url: "/BIaaS/"
     btn_class: "btn--primary"
     btn_label: "Busca tu sector"
@@ -29,7 +29,7 @@ feature_row3:
   - image_path: /assets/images/cuadrado/capacitacion.jpg
     alt: "Entrenamiento"
     title: "Entrenamiento"
-    excerpt: "Capacitamos tus analistas de negocio en las mejores tecnologías y técnicas de análisis, empoderándolos para explotar al máximo los datos"
+    excerpt: "Capacitamos tu personal en las mejores tecnologías y técnicas de análisis, empoderándolos para explotar al máximo los datos"
     url: "/entrenamiento/"
     btn_class: "btn--primary"
     btn_label: "Déjate Enseñar"
