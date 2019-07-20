@@ -10,7 +10,7 @@ header:
 excerpt: 'Consultoría, entrenamiento y desarrollo de aplicaciones de Business Intelligence y Analítica'
 
 feature_row1:
-  - image_path: /assets/images/logos/Biapp2.png
+  - image_path: /assets/images/logos/Biapp.png
     alt: "BI como Servicio"
     title: "Biapps"
     excerpt: "Te damos acceso a una pantalla donde encontrarás el análisis de las principales variables que impactan el mercado de tu negocio"
