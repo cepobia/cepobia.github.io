@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"  
   overlay_image: assets/images/wide/BIasServices.png
 
-excerpt: "Encuentra toda la informacióm de los principales sectores económicos colombianos, en un solo lugar. "
+excerpt: "Encuentra toda la información de los principales sectores económicos colombianos, en un solo lugar. "
 
 feature_row1:
   - image_path: /assets/images/logos/Biappsugar.png
