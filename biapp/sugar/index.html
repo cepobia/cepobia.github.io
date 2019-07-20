@@ -1,60 +1,81 @@
 <!DOCTYPE html>
-<html lang="es">
+
+<html>
 <head>
     <meta charset="utf-8" />
-    <title></title>
+    <title>Biapp Azucar</title>
+    <link rel="shortcut icon" href="favicon.ico">
     <link rel="stylesheet" href="css/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css" />
+
 </head>
+<body >
+    
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+                <a class="navbar-brand" href="index.html">
+                        <img src="images/Logo Biapp sugar.png" alt="">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                        </button>
+                <div class="collapse navbar-collapse" id="navbarText">
+                        <ul class="navbar-nav mr-auto">
+                        <li class="nav-item disabled">
+                                <a class="nav-link" href="Diario.html"> Diario</a>
+                        </li>
+                        <li class="nav-item disabled">
+                                <a class="nav-link" href="#"> Semanal </a>
+                        </li>
+                        <li class="nav-item disabled">
+                                <a class="nav-link" href="#"> Historicos </a>
+                        </li>
+                        </ul>
 
+                </div>
+        </nav>
+ 
+        <div class="container-fluid bg-overlay">
+                <div class="row">
+                        <div class="col">
+                                <p class="text-center"><h3 > <b>Analizar la realidad permite transformarla.</b></h3></p>
+                        </div>
+                        
+                        <div class="w-100"></div>
 
-<body>
-    <div class="wide" align="center">
-        <iframe id="frame1" src="https://app.powerbi.com/reportEmbed?reportId=3da5543f-5b85-4aac-b56d-fe7e37d67aaa&autoAuth=true&ctid=635d61c7-0e25-4953-a017-5fe70e21d5cd" 
-            width="1700" height="800"
-            frameborder="0" 
-            allowFullScreen="true">
-        </iframe>
-    </div>
-  
-    <div class="monitor" align="center">
-        <iframe id="frame2"  src="https://app.powerbi.com/reportEmbed?reportId=fe286cb2-3046-4a8d-af7d-40f6f017893a&autoAuth=true&ctid=635d61c7-0e25-4953-a017-5fe70e21d5cd" 
-        width="1320" height="790"
-        frameborder="0" 
-        allowFullScreen="true">
-    </iframe>
-    </div>
-  
-    <div class="tablet" align="center">
-        <iframe id="frame3" src="https://app.powerbi.com/reportEmbed?reportId=fe286cb2-3046-4a8d-af7d-40f6f017893a&autoAuth=true&ctid=635d61c7-0e25-4953-a017-5fe70e21d5cd" 
-        width="820 " height="1024"
-        frameborder="0" 
-        allowFullScreen="true">
-    </iframe>
-    </div>
-  
-    <div class="mobile" align="center">
-        <iframe id="frame4" src="https://app.powerbi.com/reportEmbed?reportId=f5353e9a-df38-4602-8120-80e059d860d1&autoAuth=true&ctid=635d61c7-0e25-4953-a017-5fe70e21d5cd"
-            width="376" height="1024"
-            frameborder="0"
-            allowFullScreen="true"></iframe>
-    </div>
+                        <div class="col">                        
+                                <ul >
+                                        <li> <h4><a href="diario.html">Analisis Diario</a></h4></li>
+                                                <ul>
+                                                        <li>Precios</li>
+                                                        <li>Clima</li>
+                                                        <li>Noticias</li>
+                                                </ul>
+                                        <li> <h4><a href="#">Analisis Semanal </a></h4></li>
+                                                <ul>
+                                                        <li>Precios</li>
+                                                        <li>Producciones</li>
+                                                        <li>Clima</li>
+                                                        <li>Noticias</li>
+                                                </ul>    
+                                        <li> <h4><a href="#">Historicos</a></h4></li>
+                                                <ul>
+                                                        <li>Precios</li>
+                                                        <li>Clima</li>
+                                                        <li>Noticias</li>
+                                                </ul>              
+                                </ul>
+                        </div>
+                </div>
+        </div>
 
-    <table class="tableFooter">
-        <tbody><tr>
-            <td class="pie">
-                <span class="nameCompany">Cepobia S.A.S.© Todos los derechos reservados </span> <br>
-                   Hacemos que tus datos hablen <br>
-                   <strong>Quieres tener acceso contactanos o </strong>  <a href="">suscribete directamente</a> <br>
-                   <a href="https://api.whatsapp.com/send?phone=573183883145&text=Hola,%20quiero%20conocer%20mas%20sobre%20sus%20servicios"class="pie">whatsapp. +57 318 388 3145</a> <br>
-                   <a href="mailto:cepobia@cepobia.com" class="pie"> correo cepobia@cepobia.com</a>
-            </td>
-        </tr>
-    </tbody></table>
+   
 
-    <script src="css/bootstrap/js/jquery-3.3.1.slim.min.js" ></script>
-    <script src="css/bootstrap/popper.min.js" ></script>
-    <script src="css/bootstrap/js/bootstrap.min.js"></script>
+    <footer>
+            <p><script>document.write(new Date().getFullYear())</script> © Biapp Powered by <a href="https://www.cepobia.com/" target="_blank">CepoBIA</a></p>
+    </footer>
+    
+        <script src="css/bootstrap/js/jquery-3.3.1.slim.min.js" ></script>
+        <script src="css/bootstrap/popper.min.js" ></script>
+        <script src="css/bootstrap/js/bootstrap.min.js"></script>
+
 </body>
-
-</html>
