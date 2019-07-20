@@ -11,7 +11,7 @@ header:
 excerpt: "Encuentra toda la informacióm de los principales sectores económicos colombianos, en un solo lugar. "
 
 feature_row1:
-  - image_path: /assets/images/logos/Biappsugar.png
+  - image_path: /assets/images/logos/Biappsugar2.png
     title: "Sector Azucarero Colombiano"
     excerpt: "Encuentra la información del Mercado Azucarero Colombiano en un solo lugar (Precios, Clima, Tasa de cambio, Aranceles, Previsiones, Noticias)"
     url: "/biapp/sugar/"
