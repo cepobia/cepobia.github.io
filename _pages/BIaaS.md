@@ -14,7 +14,7 @@ feature_row1:
   - image_path: /assets/images/logos/Biappsugar.png
     title: "Sector Azucarero Colombiano"
     excerpt: "Encuentra la información del Mercado Azucarero Colombiano en un solo lugar (Precios, Clima, Tasa de cambio, Aranceles, Previsiones, Noticias)"
-    url: "https://sugarbiapp.github.io/sugarbiapp/"
+    url: "https://sugarbiapp.github.io/"
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesión"
 feature_row2:
