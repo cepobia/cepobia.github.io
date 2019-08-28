@@ -4,12 +4,12 @@ classes: wide
 author_profile: true
 author: Esteban Londono
 title: "El ETL de Power BI- Power Quey y El leguaje M"
-excerpt: " "
+excerpt: "Power Query (M) el Poderoso "ETL" oculto detrás de la Sección de Obtener Datos de Power BI "
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/wide/wtablet.jpg
-  teaser: assets/images/cuadrado/BI2.jpg
+  teaser: assets/images/cuadrado/ETL.png
 categories:
   - Introduccion
 ---
