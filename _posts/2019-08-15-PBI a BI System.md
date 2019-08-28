@@ -8,7 +8,7 @@ excerpt: "Power Query el Poderoso ETL oculto detrás de la Sección de Obtener D
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/wide/wtablet.jpg
+  overlay_image: assets/images/wide/Powers.jpg
   teaser: assets/images/cuadrado/ETL.png
 categories:
   - Introduccion
