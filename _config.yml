@@ -133,10 +133,10 @@ footer:
   links:
     - label: "(+57)318 388 31 45"
       icon: "fab fa-fw fa-whatsapp"
-      url: "https://api.whatsapp.com/send?phone=573183883145&text=Hola,%20quiero%20conocer%20mas%20sobre%20sus%20servicios"
-    - label: "cepobia@cepobia.com"
+    #  url: "https://api.whatsapp.com/send?phone=573183883145&text=Hola,%20quiero%20conocer%20mas%20sobre%20sus%20servicios"
+    - label: "admon@cepobia.com"
       icon: "fas fa-envelope"
-      url: "mailto:cepobia@cepobia.com"
+    #  url: "mailto:admon@cepobia.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/cepobia/about/"
