@@ -12,7 +12,7 @@ excerpt: "Completá el formulario y entremos en contacto  para guiarte en la gen
 ---
 
 <div pbi-resize="powerbi" pbi-resize-src="https://forms.office.com/Pages/ResponsePage.aspx?id=x2FdYyUOU0mgF1_nDiHVzY4DpSWEtKtJmbH_gLJnAhBUMzY4OUlNOEo0WTBER1pWRTkxUzRRMldLRi4u&amp;embed=true" 
-pbi-resize-min-width="600" 
+pbi-resize-min-width="200" 
 pbi-default-width="600px" 
 pbi-default-height="488" 
 pbi-resize-width="640" 
