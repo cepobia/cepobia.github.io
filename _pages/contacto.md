@@ -1,5 +1,5 @@
 ---
-title: Contacto
+title: Hablemos
 layout: splash
 permalink: /contacto/
 author_profile: false
@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/wide/wconsultancy.jpg
 
-excerpt: ""
+excerpt: "Completá el formulario y entremos en contacto  para guiarte en la generación de valor a partir de tus datos"
 ---
 
 <div pbi-resize="powerbi" pbi-resize-src="https://forms.office.com/Pages/ResponsePage.aspx?id=x2FdYyUOU0mgF1_nDiHVzY4DpSWEtKtJmbH_gLJnAhBUMzY4OUlNOEo0WTBER1pWRTkxUzRRMldLRi4u&amp;embed=true" 

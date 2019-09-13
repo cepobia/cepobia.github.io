@@ -10,10 +10,10 @@ main:
     url: /casos/
   - title: "Blog"
     url: /blog/
-  #- title: "Nosotros"
-  #  url: /about/
-  - title: "Contáctanos"
-    url: /contacto/
+  - title: "Nosotros"
+    url: /about/
+  #- title: "Contáctanos"
+  #  url: /contacto/
 
 
 
