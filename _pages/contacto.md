@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/wide/wconsultancy.jpg
+  overlay_image: assets/images/wide/wprograms.png
 
 excerpt: "Completá el formulario y entremos en contacto  para guiarte en la generación de valor a partir de tus datos"
 ---
