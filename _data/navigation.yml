@@ -12,6 +12,8 @@ main:
     url: /blog/
   - title: "Nosotros"
     url: /about/
+  - title: "Contáctanos"
+    url: /contacto/
 
 
 
