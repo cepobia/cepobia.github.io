@@ -29,20 +29,24 @@ Pero también hay algo malo en que es fácil de usar para tareas funcionales ind
  
 Al ver Power BI de esta manera, el profesional de BI se da cuenta de que todo lo que aprendió a lo largo de los años se puede aplicar a Power BI, para componer y descomponer  la estructura de Power BI  cuando necesita ser rediseñada para un entorno más grande ( ej. - SSAS realiza un back-end sobre un Datamart en SQL Server). ¡Las mejores prácticas desarrolladas en los últimos 20 años se pueden usar para expandir los sistemas Power BI para manejar más tareas empresariales
 
-### Power Query M
+## Power Query M
+
 Datos externos y el lenguaje mashup "M"
 Con ese fondo en mente, concentrémonos en la parte ETL de Power BI: el Administrador de consultas y el lenguaje subyacente de Power Query M. ¿Cómo se debe utilizar? ¿Qué puede hacer para limpiar los datos? ¿Cuáles son los signos que apuntan a una solución más diseñada?
  
 Al igual que muchas herramientas ETL populares, el lenguaje Power Query está envuelto en una interfaz para que (en muchos casos) el usuario no sepa que hay un lenguaje subyacente. El lenguaje debajo de la parte de "Datos externos" de Power BI es mucho más fácil de entender que, por ejemplo, el formato del paquete SSIS. M es un tipo de lenguaje funcional que al principio parece algo exótico pero es relativamente fácil trabajar con él en función del código que se genera. Hay varias introducciones decentes a M y cómo usarlas. El uso de Power Query Editor y M se considera que es lo mismo.
  
-Cargando (la L en E-T-L)
+### Cargando (la L en E-T-L)
 M tiene una capacidad de carga muy simple. Para Excel, Power BI y SSAS, se carga en una estructura tabular. Esto limita la usabilidad de esta herramienta en esos contextos. Hay métodos para extraer los datos, pero no en una solución robusta. Si uno usa Azure Data Lake, entonces puede usar Power Query para crear salidas que pueden ser utilizadas por otras herramientas de flujo de datos. Esto es nuevo pero muestra dos cosas: que Microsoft está comprometido con el uso de Power Query en más lugares, y que existe una ruta para Power Query como una herramienta ETL de propósito más general.
+
  
 Dado que Analysis Services también tiene esta herramienta desde SQL Server 2017, se puede diseñar un modelo tabular en SSAS utilizando las capacidades de M y luego conectarse a ese servicio en vivo o con una consulta de varios documentos de Power BI. Este diseño es más escalable. Es un paso más en el camino hacia un backend de estilo completo de data mart y es una adición bienvenida por parte de Microsoft.
  
+
 Una limitación en el pasado para Power BI era que (excepto para las conexiones en vivo a SSAS) todos los datos debían ser cargados cada vez que se actualizaban. Hay una nueva función en Premium Power BI (mayo de 2018) que permite la carga incremental de, digamos, solo los últimos 5 días, pero solo está disponible en el servicio premium de Power BI. Cada vez que vuelva a publicar (por ejemplo, después de haber cambiado una visualización), tendrá que volver a cargar todo. Si bien eso abre algunas posibilidades, todavía está limitado en términos de diseño. Las cargas largas, o con frecuencia rotas, son un ejemplo.
+
  
-Extracción (la E en E-T-L)
+### Extracción (la E en E-T-L)
 Aquí es donde m brilla. Es la herramienta de extracción más poderosa que Microsoft pone a disposición en términos de combinación de facilidad de uso y tipos de datos accesibles. El lanzamiento en los data flows del data lake de Azure da la esperanza de que una versión independiente general puede ser posible.
  
 La lista de fuentes para Power BI está en constante crecimiento y tiene más de 60 a mediados de 2019.
@@ -63,7 +67,7 @@ Datos autogenerados (por ejemplo, una dimensión de fecha)
  
 En última instancia, lo que cada una de las fuentes proporciona es un conjunto de datos de columnas y filas. El proceso de carga les asignará tipos que pueden cambiarse más adelante. Una vez que tengamos uno o más de estos conjuntos de datos, podemos transformarlos.
  
-Transformaciones (la T en E-T-L)
+### Transformaciones (la T en E-T-L)
 Este es un poderoso conjunto de capacidades. M puede hacer lo siguiente:
  
 Datos limpios
@@ -82,7 +86,7 @@ Como guía, cualquier cosa que no dependa del contexto no debe estar en DAX.
  
 M es muy orientado al flujo de trabajo. Puede ver los "pasos" en los "Pasos aplicados" cuando trabaje en el Power Query Editor. Estos corresponden directamente con las llamadas de la función M. Son visibles en la “barra de fórmulas”. La secuencia de comandos de M completa para una consulta se puede ver haciendo clic derecho en la consulta y seleccionando el "Editor avanzado". En otro post, tomaremos un ejemplo y veremos lo que podemos hacer usando M.
  
-Power Query y M son muy poderosos juntos
+### Power Query y M son muy poderosos juntos
 Cuanto más poder use, más debería considerar si la lógica debería estar centralizada en Analysis Services o SQL. Si muchas personas copian datos en los libros de Power BI por separado, tarde o temprano no coincidirán cuando se utilicen en visualizaciones. Esto es cuando es hora de hablar con profesionales!
  
 Si su equipo de BI no tiene habilidades de modelado de datos, los consultores pueden ayudarlo a modelar sus datos de manera adecuada. También pueden crear procesos confiables en torno al rendimiento de la carga, el gobierno de los datos y el archivo. Luego, los usuarios pueden discutir qué significa un número para un proceso de negocio en lugar de cómo se define.
