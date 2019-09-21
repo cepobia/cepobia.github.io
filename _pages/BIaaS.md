@@ -14,14 +14,14 @@ feature_row1:
   - image_path: /assets/images/logos/Biappsugar.png
     title: "Sector Azucarero Colombiano"
     excerpt: "Encuentra la información del Mercado Azucarero Colombiano en un solo lugar (Precios, Clima, Tasa de cambio, Aranceles, Previsiones, Noticias)"
-    url: "https://sugarbiapp.github.io/"
+    url: "https://biapp-test.azurewebsites.net/"
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesión"
 feature_row2:
   - image_path: /assets/images/logos/Biappcoffee.png
     title: "Sector Cafetero Colombiano"
     excerpt: "Encuentra los datos del Mercado Cafetero Colombiano (Precios, Clima, Proyecciones, Noticias)"
-    url: ""
+    url: "#"
     btn_class: "btn--primary"
     btn_label: "Iniciar Sesión"
 ---
