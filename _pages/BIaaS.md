@@ -26,7 +26,7 @@ feature_row2:
     btn_label: "Iniciar Sesión"
 feature_row3:
   - image_path: /assets/images/logos/Biapp-Salud-Dark.png
-    title: "Sector Cafetero Colombiano"
+    title: "Sector Salud Colombiano"
     excerpt: "Encuentra los datos del Sector Salud Colombiano (Tarifas, Poblaciones por EPS, Noticias...)"
     url: "#"
     btn_class: "btn--primary"
