@@ -6,7 +6,9 @@ header:
   overlay_color: "#777779"
   overlay_filter: "0.5"
   overlay_image: /assets/images/wide/wbinary.png
-
+actions:
+  - label: "Hablemos"
+    url: "/contacto/"
 excerpt: 'Consultoría, entrenamiento y desarrollo de aplicaciones de Business Intelligence y Analítica'
 
 feature_row1:

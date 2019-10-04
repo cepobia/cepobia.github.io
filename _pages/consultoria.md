@@ -8,6 +8,9 @@ header:
   overlay_image: /assets/images/wide/wbuildings.jpg
 excerpt: "Te guiamos en la generación de valor a partir de tus datos"
 title: "Consultoría"
+actions:
+  - label: "Hablemos"
+    url: "/contacto/"
 
 ---
 
