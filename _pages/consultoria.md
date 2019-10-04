@@ -6,11 +6,12 @@ header:
   overlay_color: "#777779"
   overlay_filter: "0.5"
   overlay_image: /assets/images/wide/wbuildings.jpg
-excerpt: "Te guiamos en la generación de valor a partir de tus datos"
-title: "Consultoría"
-actions:
+  actions:
   - label: "Hablemos"
     url: "/contacto/"
+
+excerpt: "Te guiamos en la generación de valor a partir de tus datos"
+title: "Consultoría"
 
 ---
 
