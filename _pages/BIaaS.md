@@ -16,7 +16,7 @@ feature_row1:
     excerpt: "Encuentra la información del Mercado Azucarero Colombiano en un solo lugar (Precios, Clima, Tasa de cambio, Aranceles, Previsiones, Noticias)"
     url: "https://biapp-test.azurewebsites.net/"
     btn_class: "btn--primary"
-    btn_label: "Iniciar Sesión"
+    btn_label: "Prueba Gratis"
 feature_row2:
   - image_path: /assets/images/logos/Biapp-Cafe-Dark.png
     title: "Sector Cafetero Colombiano en Desarrollo"
