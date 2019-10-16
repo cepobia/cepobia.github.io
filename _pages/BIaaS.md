@@ -19,18 +19,18 @@ feature_row1:
     btn_label: "Iniciar Sesión"
 feature_row2:
   - image_path: /assets/images/logos/Biapp-Cafe-Dark.png
-    title: "Sector Cafetero Colombiano"
+    title: "Sector Cafetero Colombiano en Desarrollo"
     excerpt: "Encuentra los datos del Mercado Cafetero Colombiano (Precios, Clima, Proyecciones, Noticias)"
     url: "#"
-    btn_class: "btn--primary"
-    btn_label: "Iniciar Sesión"
+    #btn_class: "btn--primary"
+    #btn_label: "Iniciar Sesión"
 feature_row3:
   - image_path: /assets/images/logos/Biapp-Salud-Dark.png
-    title: "Sector Salud Colombiano"
+    title: "Sector Salud Colombiano en Desarrollo"
     excerpt: "Encuentra los datos del Sector Salud Colombiano (Tarifas, Poblaciones por EPS, Noticias...)"
     url: "#"
-    btn_class: "btn--primary"
-    btn_label: "Iniciar Sesión"
+    #btn_class: "btn--primary"
+    #btn_label: "Iniciar Sesión"
 ---
 
 {% include feature_row %}
