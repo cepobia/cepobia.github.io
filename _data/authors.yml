@@ -3,7 +3,7 @@
 Esteban Londono:
   name        : "Esteban Londoño"
   avatar      : "/assets/images/equipo/esteban.jpg"
-  bio         : "Científico de Datos"
+  bio         : "Data Scientist"
   location    : "Cali, Colombia"  
   links:
     - label: "Email"
@@ -16,17 +16,49 @@ Esteban Londono:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/manito969"
 
-Juan David Trochez:
-  name        : "Juan David Trochez"
-  bio         : "Consultor Junior"
-  avatar      : "assets/images/equipo/trochez.jpeg"
+Juan Carlos:
+  name        : "Juan Carlos Pelaez"
+  avatar      : "/assets/images/equipo/Juan Carlos.jpg"
+  bio         : "Data Engineer"
+  location    : "Cali, Colombia"  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:juan.trochez@cepobia.com"
-   # - label: "Linkedin"
-    #  icon: "fab fa-fw fa-linkedin"
-     # url: "https://www.linkedin.com/in/estebanlondono/"
+      url: "mailto:juan.pelaez@cepobia.com"
+#    - label: "Linkedin"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in//"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JuanPelaezReyes"
+
+Juan Gabriel:
+  name        : "Juan Gabriel Sanchez"
+  avatar      : "/assets/images/equipo/Juan.jpg"
+  bio         : "Project Manager"
+  location    : "Cali, Colombia"  
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:juan.pelaez@cepobia.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/juan-gabriel-s%C3%A1nchez-boh%C3%B3rquez-052098179/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/juanga09"
+
+Andres :
+  name        : "Wilmer Andres Vargas"
+  bio         : "Business Intelligence Developer"
+  avatar      : "assets/images/equipo/andres.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:andres.vargas@cepobia.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/wilmer-andr%C3%A9s-vargas-m%C3%A9ndez-1b70a878/"
    # - label: "GitHub"
     #  icon: "fab fa-fw fa-github"
      # url: "https://github.com/manito969"
