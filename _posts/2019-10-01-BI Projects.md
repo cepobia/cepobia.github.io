@@ -8,7 +8,7 @@ excerpt: "Microsoft Power BI nos ofrece un abanico de posibilidades para adaptar
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/wide/BIConcept.jpg
+  overlay_image: assets/images/wide/wpbi.jpg
   teaser: assets/images/cuadrado/wave3.jpg
 categories:
   - Proyectos
