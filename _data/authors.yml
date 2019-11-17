@@ -62,3 +62,19 @@ Andres :
    # - label: "GitHub"
     #  icon: "fab fa-fw fa-github"
      # url: "https://github.com/manito969"
+
+Manuel:
+  name        : "Manuel Alejandro Salinas Lopez"
+  avatar      : "/assets/images/equipo/manuel.jpg"
+  bio         : "Economista, Magíster en Economía"
+  location    : "Cali, Colombia"  
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:manuelsalis@hotmail.com"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/manuel-alejandro-salinas-lopez-89292a67/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/JuanPelaezReyes"

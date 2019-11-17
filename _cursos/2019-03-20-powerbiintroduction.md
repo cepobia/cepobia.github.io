@@ -1,7 +1,7 @@
 ---
 title: "Introduccion a Power BI"
 layout: splash
-excerpt: "Desarrolla e implementa una solucion de Business Intelligence en herramienta muy familiar"
+excerpt: "Desarrolla e implementa una solucion de Business Intelligence en una herramienta muy familiar"
 header:
   teaser: assets/images/logos_externos/PBI.jpg
   overlay_image: /assets/images/wide/wpbi.jpg

@@ -29,7 +29,7 @@ También pueden utilizar modos alternativos por proyecto o con diferentes equipo
 
 Con todo ello distinguiremos tres aproximaciones o tipos de proyectos de Business Intelligence con Power BI:
 
-![Enfoque Proyectos de BI](/assets/images//cuadrado/TypesBIproj.png)
+![Enfoque Proyectos de BI](/assets/images/cuadrado/TypesBIproj.png)
 
 ### BI Corporativo
 
