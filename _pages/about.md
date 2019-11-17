@@ -49,4 +49,4 @@ Somos profesionales con mas de 10 años de experiencia en Business intelligence,
 
 ## Certificaciones de Nuestro Equipo
 
-![](/assets/images/certifications/Certifications.png)
+![certifications](/assets/images/certifications/Certifications.png)

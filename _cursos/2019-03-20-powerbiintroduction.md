@@ -3,7 +3,7 @@ title: "Introduccion a Power BI"
 layout: splash
 excerpt: "Desarrolla e implementa una solucion de Business Intelligence en herramienta muy familiar"
 header:
-  teaser: assets/images/logos/IPBI.jpg
+  teaser: assets/images/logos_externos/PBI.jpg
   overlay_image: /assets/images/wide/wpbi.jpg
   overlay_color: "#777779"
   overlay_filter: "0.5"
