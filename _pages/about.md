@@ -46,3 +46,7 @@ Somos profesionales con mas de 10 años de experiencia en Business intelligence,
 - Negocio: Analistas con años de experiencia en consultoría estratégica, Analisis de Financiero e implementación tecnológica. Su labor es entender profundamente a los clientes y elaborar proyectos que les generen beneficios concretos.
 
 - Técnico: Especialistas en dominio en las tecnologías de vanguardia en el mundo de los datos como  SQL, Python y Spark, 
+
+## Certificaciones de Nuestro Equipo
+
+![](/assets/images/certifications/Certifications.png)
