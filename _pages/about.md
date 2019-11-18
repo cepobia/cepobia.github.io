@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"  
   overlay_image: assets/images/wide/wconsultancy.jpg
-excerpt: "Queremos ayudar a las personas a tener éxito con la gestion sus datos. Creemos que, la capacitación y las herramientas adecuadas, pueden lograr que tome mejores decisiones eliminando lo desconocido. Asuma el control de sus datos y sea más fuerte, mejor y más competitivo cada día."
+excerpt: "Queremos ayudar a las personas a tener éxito con la gestión de sus datos. Creemos que, la capacitación y las herramientas adecuadas, pueden lograr que tome mejores decisiones eliminando lo desconocido. Asuma el control de sus datos y sea más fuerte y competitivo cada día."
 ---
 
 ## Nuestra Mision
