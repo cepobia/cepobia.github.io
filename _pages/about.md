@@ -11,7 +11,7 @@ excerpt: "Queremos ayudar a las personas a tener éxito con la gestión de sus d
 
 ## Nuestra Mision
 
-Entregamos soluciones agiles que transforman datos en decisiones.
+Entregar soluciones agiles que transforman datos en decisiones.
 
 ## Nuestra Vision
 
