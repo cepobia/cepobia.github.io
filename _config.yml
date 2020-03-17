@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/esteban.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Business Intelligence Expert"
   location         : "Cali, Colombia"
-  email            : "esteban.londono.padilla@gmail.com"
+  email            : "esteban.londono@cepobia.com"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
