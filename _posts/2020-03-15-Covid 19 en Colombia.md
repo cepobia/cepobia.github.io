@@ -1,15 +1,14 @@
 ---
 layout: single
 classes: wide
-author_profile: true
-author: Esteban Londono
+author_profile: False
 title: "Evolución y Análisis Impacto Covid-19 en Colombia"
 excerpt: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/wide/BIConcept.jpg
-  teaser: assets/images/cuadrado/BI4.jpg
+  overlay_image: assets/images/wide/wbinary.png
+  teaser: assets/images/cuadrado/BI3.jpg
 categories:
   - Data Science
 ---
