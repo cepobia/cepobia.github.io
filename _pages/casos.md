@@ -1,5 +1,5 @@
 ---
-title: Demos
+title: Demos - Dashboards con Power BI
 layout: splash
 permalink: /casos/
 author_profile: false
@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/wide/wtablet2.jpg
 
-excerpt: "Te Mostramos como son nuestras soluciones en diferentes contextos de areas y sectores"
+excerpt: "Un Dahsboard vale más que mil 'Informes' "
 ---
 ## Salud - Evolución y Análisis Impacto Covid-19 en Colombia
 

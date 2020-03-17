@@ -1,5 +1,5 @@
 ---
-title: "Biapp Inteligencia de Negocios como Servicio"
+title: "Biapp - Inteligencia de Negocios como Servicio"
 layout: splash
 permalink: /BIaaS/
 author_profile: true
