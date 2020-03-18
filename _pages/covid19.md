@@ -1,7 +1,7 @@
 ---
 title: Evolución y Análisis Impacto Covid-19 en Colombia
 layout: splash
-permalink: /casos/
+permalink: /covid19/
 author_profile: false
 header:
   overlay_color: "#000"
