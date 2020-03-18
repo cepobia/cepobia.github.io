@@ -8,7 +8,7 @@ excerpt: ""
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/wide/wbinary.png
+  overlay_image: assets/images/wide/COVID-19.jpg
   teaser: assets/images/cuadrado/BI3.jpg
 categories:
   - Data Science
