@@ -4,7 +4,7 @@ classes: wide
 author_profile: True
 author: Esteban Londono
 title: "Evolución y Análisis Impacto Covid-19 en Colombia"
-excerpt: ""
+excerpt: "Análisis del Corona Virus en Colombia"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -14,13 +14,17 @@ categories:
   - Data Science
 ---
 
-El mundo está luchando contra un nuevo enemigo en estos días, que es el virus Covid-19 . Todos luchamos todos los días contra todas las implicaciones económicas y sociales de este virus.
-Con esta serie de artículos, te mostraremos como realizamos el siguiente dashboard en Power BI para aportar nuestro grano de arena en la situacion del covid 19 en nuestro pais. Espera nuestra serie articulos.
+Todos estamos luchando contra todas las implicaciones económicas y sociales de este nuevo virus Covid-19.
+
+Con esta serie de artículos, te mostraremos como realizamos el siguiente dashboard en Power BI para aportar nuestro grano de arena en la situacion del covid 19 en nuestro pais Colombia. La serie de articulos estará compuesta por los siguintes puntos.
 
 - Obtención y Trasnformación de los Datos 
   - Casos confirmdados con convid 19 en el Mundo recopilados y actualizados diariamente por Johns Hopkins University y puestos a disposicion en [Github](https://github.com/CSSEGISandData/COVID-19)
   - Informacion publicado en la pagina del [Instituto Nacional de Salud de Colombia](https://www.ins.gov.co/Noticias/Paginas/Coronavirus.aspx)
-- Diseño de Visualizaciones
+- Diseño de Visualizaciones.
+  - Mapas.
+  - Piramides Poblacional.
+  - Tablas con condicionales.
 - Análisis matemático simple del crecimiento de la infección y su impacto en el sistema sanitario en terminos de camas hospitalizacion, y camas de cuidados intensivos (UCI) en las principales ciudades del pais bajo el supuesto que nos comportemos como korea.
 
 
