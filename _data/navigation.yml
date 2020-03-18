@@ -12,6 +12,8 @@ main:
     url: /blog/
   - title: "Nosotros"
     url: /about/
+  - title: "Covid 19"
+    url: /covid19/
   #- title: "Contáctanos"
   #  url: /contacto/
 
