@@ -11,8 +11,7 @@ header:
 excerpt: "Modelo para ayudar a hospitales y funcionarios de salud publica con la planificacion de la capacidad hospitalaria"
 ---
 
-## 
-<div pbi-resize="powerbi" pbi-resize-src="https://covid-biapp.azurewebsites.net" pbi-resize-min-width="600" pbi-default-width="600px" pbi-default-height="488" pbi-resize-width="16" pbi-resize-height="9" pbi-resize-load-event="page-load" pbi-resize-header="true" style="position: relative;"><iframe frameborder="0" allowfullscreen="true"></iframe></div><script type="text/javascript">
+<div pbi-resize="powerbi" pbi-resize-src="https://covid-biapp.azurewebsites.net" pbi-resize-min-width="600" pbi-default-width="600px" pbi-default-height="488" pbi-resize-width="15" pbi-resize-height="7.06" pbi-resize-load-event="page-load" pbi-resize-header="true" style="position: relative;"><iframe frameborder="0" allowfullscreen="true"></iframe></div><script type="text/javascript">
 !function(){if("undefined"==typeof window.powerbiresizescript){window.powerbiresizescript=1;window.onmessage=function(event){var isReportPageLoadedEvent=function(event){try{if(event&&event.data&&event.data.url==='/reports/undefined/events/pageChanged'){return!0}}catch(error){return undefined}};if(isReportPageLoadedEvent(event)){var iframe=getIframeElement(event.source)
 setTimeout(function(){if(iframe&&iframe.parentNode.children.length>1){switch(iframe.parentNode.getAttribute('pbi-resize-load-event')){case 'click':showElement(iframe);break;case 'page-load':case 'seconds-timeout':case 'in-view':var button=getChildByTag(iframe.parentNode,'div');setButtonState(button,'readynow');break}}},(iframe.parentNode.getAttribute('pbi-resize-delay-show')||1)*1000)}};function getChildByTag(parent,tagName){if(parent){for(var i=0;i<parent.children.length;i++){if(parent.children[i].tagName.toLowerCase()===tagName.toLowerCase()){return parent.children[i]}}}
 return null}
