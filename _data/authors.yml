@@ -34,13 +34,13 @@ Juan Carlos:
 
 Juan Gabriel:
   name        : "Juan Gabriel Sanchez"
-  avatar      : "/assets/images/equipo/Juan.jpg"
+  avatar      : "/assets/images/equipo/Juan.jpeg"
   bio         : "Project Manager"
   location    : "Cali, Colombia"  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:juan.pelaez@cepobia.com"
+      url: "mailto:juan.sanchez@cepobia.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/juan-gabriel-s%C3%A1nchez-boh%C3%B3rquez-052098179/"
