@@ -9,17 +9,17 @@ header:
 excerpt: "Queremos ayudar a las personas a tener éxito con la gestión de sus datos. Creemos que, la capacitación y las herramientas adecuadas, pueden lograr que tome mejores decisiones eliminando lo desconocido. Asuma el control de sus datos y sea más fuerte y competitivo cada día."
 ---
 
-## Nuestra Mision
+## Nuestra Misión
 
-Entregar soluciones agiles que transforman datos en decisiones.
+Entregar soluciones ágiles que transforman datos en decisiones.
 
-## Nuestra Vision
+## Nuestra Visión
 
 Ser el referente en Latinoamérica en el arte del análisis de datos.
 
 ## Nuestros Principios Rectores
 
-- Si la Solucion es difícil de explicar, es una mala idea.
+- Si la solucion es difícil de explicar, es una mala idea.
 - Hecho es mejor que perfecto
 - Hermoso es mejor que feo.
 - Explícito es mejor que implícito.
