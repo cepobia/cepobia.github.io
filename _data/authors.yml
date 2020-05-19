@@ -48,17 +48,17 @@ Juan Gabriel:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/juanga09"
 
-Andres :
-  name        : "Wilmer Andres Vargas"
+Juan David :
+  name        : "Juan David Angel"
   bio         : "Business Intelligence Developer"
-  avatar      : "assets/images/equipo/andres.jpeg"
+  avatar      : "assets/images/equipo/David.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:andres.vargas@cepobia.com"
+      url: "mailto:juan.angel@cepobia.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/wilmer-andr%C3%A9s-vargas-m%C3%A9ndez-1b70a878/"
+      url: "https://www.linkedin.com/in/juan-david-ángel-rubio-781a53132"
    # - label: "GitHub"
     #  icon: "fab fa-fw fa-github"
      # url: "https://github.com/manito969"
