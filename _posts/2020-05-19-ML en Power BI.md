@@ -78,12 +78,12 @@ En el caso del rol del cliente en la organización, se tiene que el 14.93% de la
 La pestaña top segments muestra los diferentes clústeres identificados por Power BI dentro de la población, para el valor métrico seleccionado que en este caso son las calificaciones bajas de los clientes.
 El segmento 1, por ejemplo, tiene 30.8% de calificaciones de bajas calificaciones de los clientes. El tamaño de la burbuja representa cuantos clientes hay dentro de cada clúster
 
-![barras](/assets/images/post/ML_en_PowerBI/top_segments1.jpg)
+![segments_1](/assets/images/post/ML_en_PowerBI/top_segments1.jpg)
 
 Al seleccionar una burbuja, se profundiza en detalle cada segmento. Si seleccionamos la burbuja número uno, encontrará que en este clúster pertenecen clientes que no son editores, es decir, son consumidores o administradores con más de 29 años accediendo a los servicios de la empresa y que tienen más de 4 tickets de soporte.
 En este grupo, el 30.8% de los clientes dieron una calificación baja. El cliente promedio obtuvo calificación baja del 11.7%, además, que el segmento uno contiene aproximadamente 3.5% del set de datos.
 
-![barras](/assets/images/post/ML_en_PowerBI/top_segments2.jpg)
+![segments_2](/assets/images/post/ML_en_PowerBI/top_segments2.jpg)
 
 La intención con lo que se escribió este articulo fue mencionar algunas técnicas de las cuales Power BI está adaptando en todo lo relacionado con IA. De aquí adelante se vendrán muchas cosas muy interesantes para abordar y sacarle más potencial a esta buena herramienta que nos brinda Microsoft.
 Nos encontramos al borde de la cuarta revolución industrial, donde las empresas de tecnologías de la información esta llamadas a dominar la industria por su papel fundamental de darle valor a los datos para la toma de decisiones. A medida que avanza esta cuarta revolución industrial, los científicos de datos y profesionales en IA tendremos la fortuna de seguir aprendiendo de nuevas temáticas que nos sorprenden cada día.
