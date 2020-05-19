@@ -14,6 +14,7 @@ categories:
   - Proyectos
 ---
 
+
 Power BI es una de las herramientas más populares de Microsoft que han adaptado científicos de datos, analistas y desarrolladores de Bussines Intelligence para la ejecución de sus roles en función del ML, como se muestra en el siguiente el cuadro: 
 
 ![Cuadro Comparativo](/assets/images/post/ML_en_PowerBI/cuadro_comparativo.png)
@@ -49,11 +50,12 @@ Otras de las visualizaciones destacas son los Key influencers . Power BI utiliza
 Para la ejecución del ejemplo, se tomó el archivo de datos sobre comentarios de cliente basados en [Moro et al., 2014] S.Moro,P. Cortez y P.Rita. “Un enfoque basado en datos para predecir el éxito de telemarketing bancario”. Decision Support Systems, Elsevier, 62:22-31, junio de 2014.
 Como problemática de negocio, el gerente de producto quiere que se descubra la cantidad factores que llevan a los clientes en determinar una calificación negativa con respecto a su servicio en la nube.
 Los campos que influyen en la calificación (rating) de los clientes son:
-•	País-Región 
+•	País-Región
 •	Rol del cliente en la organización
 •	Tipo de suscripción 
 •	Tamaño de la empresa 
 •	Tema
+
 Cuando no se tenga una determinación clara de las variables explicativas más influyentes en una métrica, se recomienda emplear un preanálisis estadístico correlacional en sus set de datos para poderlas identificar. 
 Al igual que en el árbol de descomposición, los dos tipos de entradas son los siguientes:
 
