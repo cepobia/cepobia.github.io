@@ -22,6 +22,8 @@ Power BI es una de las herramientas más populares de Microsoft que han adaptado
 La mayoría de estas propiedades se pueden ejecutar en la modalidad de Power BI Desktop y el resto adquiriendo licencia en premium con Power BI Service.
 En este artículo, se pretende mostrar una novedosa característica del IA en Power BI Desktop denominado AutoML. Con unos simples clics, el AutoML permite a los usuarios crear visualizaciones basados en modelos de Machine Learning para la generación informes ad-hoc o en análisis de causa raíz, que se mejora mediante la funcionabilidad integrada de IA integration. 	
 
+## Árbol de Descomposición
+
 Una de las novedosas visualizaciones en términos de ML que ha introducido Power BI es el árbol de descomposición. Una Visualización altamente interactiva que le permite descomponer (desglosar) una métrica o variable respuesta varios atributos a través de diferentes dimensiones.
 Para demostrar cómo funciona el árbol de descomposición, se modela a partir del conjunto de datos sobre seguros de vida, donde se tiene información sobre el valor del seguro en dólares de cada persona con respecto a su sexo, la edad, si fuma o no tabaco y la cantidad de hijos que tiene.
 El problema de análisis consiste en descomponer la métrica valor del seguro en dólares en las variables explicativas denominadas sexo, la edad, si fuma o no tabaco y la cantidad de hijos.
@@ -45,6 +47,8 @@ Dado el caso que se tenga otra variable de interés en el estudio se pueden crea
 ![Arbol_3](/assets/images/post/ML_en_PowerBI/arbol_3.png)
 
 Dependiendo de la región de procedencia cambian las distintas descomposiciones del árbol, lo cual lo hace una herramienta del AutoML interesante de aplicar dentro de Power BI.
+
+## key Influencers
 
 Otras de las visualizaciones destacas son los Key influencers . Power BI utiliza el AutoML para ejecutar una regresión logística como modelo base de ML dentro de esta visualización, teniendo como principal objetivo el poder clasificar los factores que están más asociados con la métrica en términos de probabilidad.
 Para la ejecución del ejemplo, se tomó el archivo de datos sobre comentarios de cliente basados en [Moro et al., 2014] S.Moro,P. Cortez y P.Rita. “Un enfoque basado en datos para predecir el éxito de telemarketing bancario”. Decision Support Systems, Elsevier, 62:22-31, junio de 2014.
