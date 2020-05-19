@@ -11,7 +11,7 @@ header:
   overlay_image: assets/images/wide/AI.jpg
   teaser: assets/images/cuadrado/ML_ indicador.jpg
 categories:
-  - Proyectos
+  - Machine Learning
 ---
 
 
