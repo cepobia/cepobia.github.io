@@ -42,7 +42,7 @@ Dado el caso que se tenga otra variable de interés en el estudio se pueden crea
 
 ![Arbol](/assets/images/post/ML_en_PowerBI/arbol_2.png)
 
-![Arbol](/assets/images/post/ML_en_PowerBI/arbol_2.png)
+![Arbol](/assets/images/post/ML_en_PowerBI/arbol_3.jpg)
 
 Dependiendo de la región de procedencia cambian las distintas descomposiciones del árbol, lo cual lo hace una herramienta del AutoML interesante de aplicar dentro de Power BI.
 
