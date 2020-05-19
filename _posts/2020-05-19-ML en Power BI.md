@@ -40,9 +40,9 @@ Así sucesivamente se pueden analizar las posibles descomposiciones de interés 
 
 Dado el caso que se tenga otra variable de interés en el estudio se pueden crear otro tipo de visualización para poder interactuar con el árbol de descomposición, siguiendo el ejemplo, se tiene la región de procedencia de cada persona como se expone los siguientes resultados:
 
-![Arbol](/assets/images/post/ML_en_PowerBI/arbol_2.png)
+![Arbol_2](/assets/images/post/ML_en_PowerBI/arbol_2.jpg)
 
-![Arbol](/assets/images/post/ML_en_PowerBI/arbol_3.jpg)
+![Arbol_3](/assets/images/post/ML_en_PowerBI/arbol_3.png)
 
 Dependiendo de la región de procedencia cambian las distintas descomposiciones del árbol, lo cual lo hace una herramienta del AutoML interesante de aplicar dentro de Power BI.
 
@@ -50,6 +50,7 @@ Otras de las visualizaciones destacas son los Key influencers . Power BI utiliza
 Para la ejecución del ejemplo, se tomó el archivo de datos sobre comentarios de cliente basados en [Moro et al., 2014] S.Moro,P. Cortez y P.Rita. “Un enfoque basado en datos para predecir el éxito de telemarketing bancario”. Decision Support Systems, Elsevier, 62:22-31, junio de 2014.
 Como problemática de negocio, el gerente de producto quiere que se descubra la cantidad factores que llevan a los clientes en determinar una calificación negativa con respecto a su servicio en la nube.
 Los campos que influyen en la calificación (rating) de los clientes son:
+
 •	País-Región
 •	Rol del cliente en la organización
 •	Tipo de suscripción 
