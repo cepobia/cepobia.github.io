@@ -68,7 +68,7 @@ Al igual que en el árbol de descomposición, los dos tipos de entradas son los 
 
 El cual genera las siguientes salidas:
 
-![PB_Analize](/assets/images/post/ML_en_PowerBI/top_segments1.jpg)
+![PB_Analize](/assets/images/post/ML_en_PowerBI/Key_influencers1.jpg)
 
 Como primer paso se señala que el tipo de rating sea bajó en la visualización, después se representan los factores más influyentes, el factor número 1 o más influyente, es el rol del cliente en la organización, donde si es de tipo consumidor tiene 2.57 más probabilidades de dar una puntación baja en comparación con los demás roles como administrador y editor.
 El segundo factor más influyente es el tema de la revisión del cliente. Los clientes que comentaron sobre la usabilidad del producto tenían 2.55 veces más probabilidades de dar una calificación baja en comparación con los clientes que comentaron sobre otros temas, como la fiabilidad, el diseño o la velocidad. De manera semejante  se interpretaría los demás resultados según el contexto de cada variable.
