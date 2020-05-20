@@ -59,9 +59,9 @@ Juan David :
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/juan-david-ángel-rubio-781a53132"
-   # - label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-     # url: "https://github.com/manito969"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/juandangel"
 
 Manuel:
   name        : "Manuel Alejandro Salinas Lopez"
