@@ -84,7 +84,7 @@ El segmento 1, por ejemplo, tiene 30.8% de calificaciones de bajas calificacione
 
 ![segments_1](/assets/images/post/ML_en_PowerBI/top_segments1.jpg)
 
-Al seleccionar una burbuja, se profundiza en detalle cada segmento. Si seleccionamos la burbuja número uno, encontrará que en este clúster pertenecen clientes que no son editores, es decir, son consumidores o administradores con más de 29 años accediendo a los servicios de la empresa y que tienen más de 4 tickets de soporte.
+Al seleccionar una burbuja, se profundiza en detalle cada segmento. Si seleccionamos la burbuja número uno, encontrará que en este clúster pertenecen clientes que no son editores, es decir, son consumidores o administradores con suscripción tipo premier y el tema de revisión como cliente fue el de seguridad.
 En este grupo, el 30.8% de los clientes dieron una calificación baja. El cliente promedio obtuvo calificación baja del 11.7%, además, que el segmento uno contiene aproximadamente 3.5% del set de datos.
 
 ![segments_2](/assets/images/post/ML_en_PowerBI/top_segments2.png)
