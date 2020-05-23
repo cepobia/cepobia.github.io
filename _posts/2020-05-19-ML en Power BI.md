@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 author: Juan David
 title: "APLICACIÓN AUTOMATIZADA DE MACHINE LEARNING (ML) EN POWER BI"
-excerpt: "En los últimos años, la inteligencia artificial y el aprendizaje automático han visto un aumento sin procedentes en popularidad en todas las industrias y áreas de la investigación científica. Las empresas están buscando formas de integrar estas nuevas tecnologías en sus operaciones."
+excerpt: "En los últimos años, la inteligencia artificial y el aprendizaje automático han visto un aumento sin precedentes en popularidad en todas las industrias y áreas de la investigación científica. Las empresas están buscando formas de integrar estas nuevas tecnologías en sus operaciones."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
