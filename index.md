@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Hablemos"
       url: "/contacto/"
-excerpt: 'Consultoría, entrenamiento y desarrollo de aplicaciones de Business Intelligence y Analítica'
+excerpt: 'Consultoría, entrenamiento y desarrollo de aplicaciones de Business Intelligence y Analítica con Power BI'
 
 feature_row1:
   - image_path: /assets/images/logos/Biapp.png
