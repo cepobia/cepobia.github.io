@@ -15,8 +15,8 @@ main:
     url: /about/
   - title: "Covid 19"
     url: /covid19/
-  - title: "CHIME"
-    url: /chime/
+  #- title: "CHIME"
+  #  url: /chime/
   #- title: "Contáctanos"
   #  url: /contacto/
 

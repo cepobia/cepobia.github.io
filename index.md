@@ -11,6 +11,15 @@ header:
       url: "/contacto/"
 excerpt: 'Consultoría, entrenamiento y desarrollo de aplicaciones de Business Intelligence y Analítica con Power BI'
 
+feature_row1:
+  - image_path: /assets/images/logos/Biapp.png
+    alt: "BI como Servicio"
+    title: "Biapps"
+    excerpt: "Te damos acceso a una pantalla donde encontrarás el análisis de las principales variables que impactan el mercado de tu negocio"
+    url: "/BIaaS/"
+    btn_class: "btn--primary"
+    btn_label: "Busca tu sector"
+
 feature_row2:
   - image_path: /assets/images/cuadrado/BI3.jpg
     alt: "Consultoria"
@@ -35,21 +44,13 @@ feature_row4:
     url: "/casos/"
     btn_class: "btn--primary"
     btn_label: "Déjate impactar"
-feature_row1:
-  - image_path: /assets/images/logos/Biapp.png
-    alt: "BI como Servicio"
-    title: "Biapps"
-    excerpt: "Te damos acceso a una pantalla donde encontrarás el análisis de las principales variables que impactan el mercado de tu negocio"
-    url: "/BIaaS/"
-    btn_class: "btn--primary"
-    btn_label: "Busca tu sector"
 ---
 {% include feature_row %}
-
-{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="feature_row1" type="left" %}
