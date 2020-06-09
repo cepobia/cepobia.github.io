@@ -7,7 +7,7 @@ permalink: /blog/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/wide/wbook.jpg
+  overlay_image: assets/images/wide/blogbanner.png
 excerpt: "Este espacio es acerca del maravilloso mundo del business Intelligence y la ciencia de datos. En este compartiremos tips, conocimientos, tutoriales etc.. que seran utiles en tu desarrollo profesional"
 ---
 
