@@ -1,7 +1,6 @@
 # main links
 main:
-  - title: Biapp
-    url: /BIaaS/   
+  
   - title: "Consultoría"
     url: /consultoria/
   - title: "Entrenamiento"
@@ -10,12 +9,14 @@ main:
     url: /casos/
   - title: "Blog"
     url: /blog/
+  - title: Biapp
+    url: /BIaaS/ 
   - title: "Nosotros"
     url: /about/
   - title: "Covid 19"
     url: /covid19/
-  - title: "CHIME"
-    url: /chime/
+  #- title: "CHIME"
+  #  url: /chime/
   #- title: "Contáctanos"
   #  url: /contacto/
 
