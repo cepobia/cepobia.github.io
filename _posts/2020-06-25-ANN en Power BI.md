@@ -30,7 +30,7 @@ Ahora que hicimos una breve definición de lo que es ANN y en donde se puede emp
 
 En el campo de la ingeniería, es crucial contar con estimaciones precisas del rendimiento de los materiales de construcción. Estas estimaciones son necesarias para desarrollar directrices que rigen los materiales utilizados en la construcción de edificios, puentes y carreteras.
 Estimar la resistencia del concreto es un desafío de particular interés. Aunque es utilizado en casi todos los proyectos de construcción, el rendimiento de su estructura varía mucho debido a una amplia variedad de características que interactúan de forma compleja, por lo tanto, es difícil predecir con precisión la resistencia de este material. Como desafío se implementa una ANN, para predecir la resistencia del concreto dada una lista de insumos que ayudan a la composición de prácticas en la construcción de edificaciones.
-Utilizaremos el set de datos  sobre la resistencia a la compresión de concreto donado en la plataforma de machine learning Kaggle  (https://www.kaggle.com/pavanraj159/concrete-compressive-strength-data-set). 
+Utilizaremos el set de datos  sobre la resistencia a la compresión de concreto donado en la plataforma de machine learning Kaggle  [enlace](https://www.kaggle.com/pavanraj159/concrete-compressive-strength-data-set). 
 
 Según el sitio web, el conjunto de datos contiene 1.030 mediciones de la resistencia de concreto con ocho de sus insumos que describen los componentes utilizados en el material. Como insumos se incluyen la cantidad en kilogramos por metro cúbico de cemento (cement), mezcla de escoria (slag), mezcla de cenizas (Ash), agua (water), mezcla de superplastificante (superplasticizer), mezcla de agregado grueso (CoarseAgg) y  mezcla agregado fino (Fine Agg) utilizado en el material además del tiempo de envejecimiento (Age) medido en días, estos ingredientes se creen que están relacionados con la resistencia (strength).
 
@@ -94,6 +94,7 @@ Al final si es de gusto puedes acompañar el cálculo de la correlación ejecuta
 ![Imagen Scrip](/assets/images/post/ANN/imagen9.PNG)
 
 Vimos paso a paso como se pueden mostrar los resultados de uno de los modelos de aprendizaje automático a partir de Microsoft Power BI, ahora anímate y empieza a hacer tus dashboard no solo empleando una ANN, inténtalo con una máquina de soporte vectorial, un ACP, arboles de decisión y demás modelos ML pertenecientes al mundo de la inteligencia artificial.
+
 En cepoBIA seguiremos avanzado en la aplicación de nuestro conocimiento de analytics en las novedosas tecnologías que nos ofrece Microsoft.
 
-## Árbol de Descomposición
+
