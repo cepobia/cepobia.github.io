@@ -54,7 +54,7 @@ Los datos ya estaban ordenados en orden aleatorio, por tal motivo no hubo necesi
 
 Instalando y cargando la librería neuralnet en la base de R, procedemos a entrenar la ANN usando la siguiente sintaxis: 
 
-![Imagen Scrip](/assets/images/post/ANN/imagen4.PNG)	
+![Imagen Scrip](/assets/images/post/ANN/Imagen4.PNG)	
 
 Al final al “plotear” el modelo, se obtiene la visualización de la red neural que se están entrenando, el algoritmo de entrenamiento utilizado es el de backpropagation, la función de activación ejercida en cada neurona es la sigmoide y la cantidad de nodos ocultos recomendados en la modelación son de 5.
 
