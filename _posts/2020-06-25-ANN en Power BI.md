@@ -21,9 +21,9 @@ Considerando el anterior argumento, desde el equipo de CepoBIA surgió la idea d
 Pero a todas estas, ¿Qué es una ANN?. Una red neuronal artificial, como se conoce en lenguaje español, modela la relación entre un conjunto de señales de entrada y salida utilizando un modelo derivado de comprender cómo el cerebro responde a los estímulos sensoriales. Al igual que el cerebro humano usa una red de células interconectadas llamadas neuronas para crear un proceso masivo paralelo, una ANN utiliza una red neuronal o nodos artificiales para resolver problemas de aprendizaje automático.
 En la actualidad, el uso masivo de computadoras potencialmente eficientes ha impulsado a la aplicación de las ANN en problemas de gran calibre como:
 
-●	Programas de reconocimiento de imágenes y voz utilizados en algún servicio tecnológico. 
-●	La mecanización de dispositivos inteligentes como autos sin conductor y drones con piloto automático
-●	Modelos sofisticados de patrones climáticos, clasificaciones de enfermedades y muchos otros fenómenos científicos, sociales o económicos.
+*	Programas de reconocimiento de imágenes y voz utilizados en algún servicio tecnológico. 
+*	La mecanización de dispositivos inteligentes como autos sin conductor y drones con piloto automático
+*	Modelos sofisticados de patrones climáticos, clasificaciones de enfermedades y muchos otros fenómenos científicos, sociales o económicos.
 
  
 Ahora que hicimos una breve definición de lo que es ANN y en donde se puede emplear, vamos directo al ejemplo. 
@@ -53,6 +53,7 @@ Los datos ya estaban ordenados en orden aleatorio, por tal motivo no hubo necesi
 ![Imagen Scrip](/assets/images/post/ANN/imagen3.PNG)	
 
 Instalando y cargando la librería neuralnet en la base de R, procedemos a entrenar la ANN usando la siguiente sintaxis: 
+
 ![Imagen Scrip](/assets/images/post/ANN/imagen4.PNG)	
 
 Al final al “plotear” el modelo, se obtiene la visualización de la red neural que se están entrenando, el algoritmo de entrenamiento utilizado es el de backpropagation, la función de activación ejercida en cada neurona es la sigmoide y la cantidad de nodos ocultos recomendados en la modelación son de 5.
@@ -83,6 +84,7 @@ Al cerrar y aplicar las transformaciones del Query Editor, en el Power BI Deskto
 ![Imagen Scrip](/assets/images/post/ANN/imagen7.PNG)
 
 Con la ayuda de la librería “GGally” previamente instalada en R, obtenemos el cálculo de la correlación entre las dos variables:
+
 ![Imagen Scrip](/assets/images/post/ANN/imagen8.PNG)
 
 La correlación indica una fuerte relación lineal entre dos variables. Esto implica que nuestra ANN está haciendo un trabajo bastante bueno para predecir la resistencia del concreto.
