@@ -67,7 +67,7 @@ Los datos ya estaban ordenados en orden aleatorio por tal motivo no hubo necesid
 Al tener con anterioridad instalada y cargada la librería neuralnet  en R, procedemos a  llamar el paquete con el comando library y  entrenar la ANN usando la siguiente sintaxis: 
 
 
-![Imagen Scrip3](/assets/images/post/ANN/imagen4.PNG)
+![Imagen Scrip3](/assets/images/post/ANN/imag4.png)
 
 Al final al “plotear” el modelo, se obtiene la visualización en Power BI de la red neural que se están entrenando, el algoritmo de entrenamiento utilizado es el de backpropagation, la función de activación ejercida en cada neurona es la sigmoide y la cantidad de nodos ocultos recomendados en la modelación son de 5.
 
