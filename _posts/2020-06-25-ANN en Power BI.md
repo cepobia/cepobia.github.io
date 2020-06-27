@@ -52,7 +52,7 @@ Al darle clic en la visualización correspondiente al script de R, seleccionamos
 De manera automática en él script de R de Power BI formará un dataframe con las variables seleccionadas para posteriormente ejecutar los códigos de análisis.
 
 
-![Imagen Scrip](/assets/images/post/ANN/imagen2.PNG)	
+![Imagen Scrip1](/assets/images/post/ANN/imagen2.PNG)	
 
 ## Paso 3- Estandarización, reparto de dataset de entrenamiento y prueba
 
@@ -60,19 +60,19 @@ Antes de ejecutar cualquier algoritmo de Machine Learning, es aconsejable reesca
 Los datos ya estaban ordenados en orden aleatorio por tal motivo no hubo necesidad de realizar un muestreo aleatorio con la función sample en R.
 
   
-![Imagen Scrip](/assets/images/post/ANN/imagen3.PNG)	
+![Imagen Scrip2](/assets/images/post/ANN/imagen3.PNG)	
 
 ## Paso 4- Entrenar la ANN
 
 Al tener con anterioridad instalada y cargada la librería neuralnet  en R, procedemos a  llamar el paquete con el comando library y  entrenar la ANN usando la siguiente sintaxis: 
 
 
-![Imagen Scrip](/assets/images/post/ANN/imagen4.PNG)	
+![Imagen Scrip3](/assets/images/post/ANN/imagen4.PNG)	
 
 Al final al “plotear” el modelo, se obtiene la visualización en Power BI de la red neural que se están entrenando, el algoritmo de entrenamiento utilizado es el de backpropagation, la función de activación ejercida en cada neurona es la sigmoide y la cantidad de nodos ocultos recomendados en la modelación son de 5.
 
 
-![Imagen Scrip](/assets/images/post/ANN/imagen5.PNG)	
+![Imagen Scrip4](/assets/images/post/ANN/imagen5.PNG)	
 
 En la parte inferior de la visualización, R informa el número de pasos de entrenamiento y un error aprendizaje donde por fortuna nos da bajó, es decir, la función de coste encontró después de una gran cantidad de pasos, los pesos que minimizan el error del modelo de entrenamiento dadas las condiciones de análisis.
 
@@ -87,11 +87,11 @@ En la pestaña de transformaciones del Query Editor, le damos clic al botón des
 Seguidamente, determinamos las salidas de interés en un dataframe denominado output donde se introduce el conjunto de datos de prueba y las predicciones desestandarizadas.
 
 
-![Imagen Scrip](/assets/images/post/ANN/imagen5.PNG)	
+![Imagen Scrip5](/assets/images/post/ANN/imagen5.PNG)	
 
 Al darle clic en OK y posteriormente en el output creado en el Query Editor, obtenemos las predicciones de la resistencia del concreto tabuladas y listas para crear las visualizaciones que desees con la meta de evaluar el rendimiento del modelo de aprendizaje automático.
 
-![Imagen Scrip](/assets/images/post/ANN/imagen6.PNG)
+![Imagen Scrip6](/assets/images/post/ANN/imagen6.PNG)
 
 ## Paso 2- Correlación entre la resistencia predicha y real
 
@@ -99,17 +99,17 @@ Debido a que este es un problema de predicción en lugar de uno de clasificació
 
 Al cerrar y aplicar las transformaciones del Query Editor, en el Power BI Desktop procedemos a abrir una nueva visualización del script R y seleccionamos las variables de interés, como se presenta a continuación:
 
-![Imagen Scrip](/assets/images/post/ANN/imagen7.PNG)
+![Imagen Scrip7](/assets/images/post/ANN/imagen7.PNG)
 
 Con la ayuda de la librería “GGally” previamente instalada en R, obtenemos el cálculo de la correlación entre las dos variables:
 
-![Imagen Scrip](/assets/images/post/ANN/imagen8.PNG)
+![Imagen Scrip8](/assets/images/post/ANN/imagen8.PNG)
 
 La correlación indica una fuerte relación lineal entre dos variables. Esto implica que nuestra ANN está haciendo un trabajo bastante bueno para predecir la resistencia del concreto.
 
 Si es de gusto puedes acompañar el cálculo de la correlación ejecutando una gráfica de dispersión entre valores predichos y reales, como se expone a continuación.
 
-![Imagen Scrip](/assets/images/post/ANN/imagen9.PNG)
+![Imagen Scrip9](/assets/images/post/ANN/imagen9.PNG)
 
 Finalmente, vimos paso a paso como se pueden mostrar los resultados de uno de los modelos de aprendizaje automático a partir de Microsoft Power BI, ahora anímate y empieza a hacer tus dashboard no solo empleando una ANN, inténtalo con una máquina de soporte vectorial, un ACP, arboles de decisión y demás modelos ML pertenecientes mundo de la inteligencia artificial.
 
