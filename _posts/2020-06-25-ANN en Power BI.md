@@ -87,11 +87,11 @@ En la pestaña de transformaciones del Query Editor, le damos clic al botón des
 Seguidamente, determinamos las salidas de interés en un dataframe denominado output donde se introduce el conjunto de datos de prueba y las predicciones desestandarizadas.
 
 
-![Imagen Scrip5](/assets/images/post/ANN/imagen5.PNG)	
+![Imagen Scrip5](/assets/images/post/ANN/imagen6.PNG)	
 
 Al darle clic en OK y posteriormente en el output creado en el Query Editor, obtenemos las predicciones de la resistencia del concreto tabuladas y listas para crear las visualizaciones que desees con la meta de evaluar el rendimiento del modelo de aprendizaje automático.
 
-![Imagen Scrip6](/assets/images/post/ANN/imagen6.PNG)
+![Imagen Scrip6](/assets/images/post/ANN/imagen7.PNG)
 
 ## Paso 2- Correlación entre la resistencia predicha y real
 
@@ -99,17 +99,17 @@ Debido a que este es un problema de predicción en lugar de uno de clasificació
 
 Al cerrar y aplicar las transformaciones del Query Editor, en el Power BI Desktop procedemos a abrir una nueva visualización del script R y seleccionamos las variables de interés, como se presenta a continuación:
 
-![Imagen Scrip7](/assets/images/post/ANN/imagen7.PNG)
+![Imagen Scrip7](/assets/images/post/ANN/imagen8.PNG)
 
 Con la ayuda de la librería “GGally” previamente instalada en R, obtenemos el cálculo de la correlación entre las dos variables:
 
-![Imagen Scrip8](/assets/images/post/ANN/imagen8.PNG)
+![Imagen Scrip8](/assets/images/post/ANN/imagen9.PNG)
 
 La correlación indica una fuerte relación lineal entre dos variables. Esto implica que nuestra ANN está haciendo un trabajo bastante bueno para predecir la resistencia del concreto.
 
 Si es de gusto puedes acompañar el cálculo de la correlación ejecutando una gráfica de dispersión entre valores predichos y reales, como se expone a continuación.
 
-![Imagen Scrip9](/assets/images/post/ANN/imagen9.PNG)
+![Imagen Scrip9](/assets/images/post/ANN/imagen10.PNG)
 
 Finalmente, vimos paso a paso como se pueden mostrar los resultados de uno de los modelos de aprendizaje automático a partir de Microsoft Power BI, ahora anímate y empieza a hacer tus dashboard no solo empleando una ANN, inténtalo con una máquina de soporte vectorial, un ACP, arboles de decisión y demás modelos ML pertenecientes mundo de la inteligencia artificial.
 
