@@ -1,7 +1,7 @@
 ---
 title: "Biapp - Hosvital"
 layout: splash
-permalink: /BIaaS/
+permalink: /Biapp_Hosvital/
 author_profile: true
 header:
   overlay_color: "#000"

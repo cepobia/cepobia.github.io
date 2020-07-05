@@ -1,7 +1,7 @@
 ---
 title: "Biapp - Covid 19 en Colombia"
 layout: splash
-permalink: /BIaaS/
+permalink: /Biapp_Covid19/
 author_profile: true
 header:
   overlay_color: "#000"
