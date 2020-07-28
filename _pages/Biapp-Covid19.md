@@ -23,7 +23,7 @@ Este artículo le explica cómo instalar la aplicación **Biapp - Covid 19 en Co
 
 2. Una vez que estés en la página Appsource de la App, haga clic en **Obtenerla Ahora** .
 
-![Marketplace](/assets/images/biapps/obtener_covid.png)
+![Marketplace](/assets/images/biapps/obtener_covid.png =250x)
 
 3. Cuando se le solicite, haga clic en Instalar . Una vez que la aplicación se haya instalado, la verá en su página de aplicaciones.
 
