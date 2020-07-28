@@ -16,17 +16,14 @@ Este artículo le explica cómo instalar la aplicación **Biapp - Covid 19 en Co
 
 ![Biapp Covid 19 Colombia](/assets/images/biapps/BiappCovid19.png)
 
-Para obtener información detallada sobre el informe en sí, incluidas las renuncias de responsabilidad e información sobre los datos, consulte la muestra de seguimiento de COVID-19 para los gobiernos estatales y locales de los EE. UU .
-
-Después de instalar la aplicación de plantilla y conectarse a las fuentes de datos, puede personalizar el informe según sus necesidades. Luego puede distribuirlo como una aplicación a los colegas de su organización.
 
 ## Instala la aplicación
 
-1. Haga clic en el siguiente enlace para acceder a la aplicación: [COVID-19 Colombia]()
+1. Haga clic en el siguiente enlace para acceder a la aplicación: [COVID-19 Colombia](https://appsource.microsoft.com/en-us/product/power-bi/cepobia1590960175669.ex_biapp_covid?tab=Overview)
 
 2. Una vez que estés en la página Appsource de la App, haga clic en **Obtenerla Ahora** .
 
-![Marketplace](/assets/images/biapps/)
+![Marketplace](/assets/images/biapps/obtener_covid.png)
 
 3. Cuando se le solicite, haga clic en Instalar . Una vez que la aplicación se haya instalado, la verá en su página de aplicaciones.
 

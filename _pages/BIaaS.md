@@ -45,7 +45,7 @@ feature_row4:
 Las Biapps son aplicaciones de **Power BI**  preconfiguradas, es decir con el modelo de datos y visualizaciones listo para usarse, en nuestro portafolio tenemos dos tipos de Biapps 
 
 - **Biapp Sectorial:** Basadas en datos **externos** a la organización.
-- **Biapp Prefabricada:** Basadas en datos **internoss** procedentes de Softwares especificos de la orgnizacion.
+- **Biapp Prefabricada:** Basadas en datos **internos** procedentes de Softwares especificos de la orgnizacion.
 
 
 ## Biapps Sectoriales
