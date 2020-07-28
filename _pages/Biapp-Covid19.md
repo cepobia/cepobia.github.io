@@ -2,7 +2,7 @@
 title: "Biapp - Covid 19 en Colombia"
 layout: single
 permalink: /Biapp-Covid19/
-author_profile: true
+author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"  
@@ -17,27 +17,27 @@ Este artículo le explica cómo instalar la aplicación **Biapp - Covid 19 en Co
 ![Biapp Covid 19 Colombia](/assets/images/biapps/BiappCovid19.png)
 
 
-## Instala la aplicación
+## 1. Instala la aplicación
 
-1. Haga clic en el siguiente enlace para acceder a la aplicación: [COVID-19 Colombia](https://appsource.microsoft.com/en-us/product/power-bi/cepobia1590960175669.ex_biapp_covid?tab=Overview)
+- Haga clic en el siguiente enlace para acceder a la aplicación: [COVID-19 Colombia](https://appsource.microsoft.com/en-us/product/power-bi/cepobia1590960175669.ex_biapp_covid?tab=Overview)
 
-2. Una vez que estés en la página Appsource de la App, haga clic en **Obtenerla Ahora** .
+- Una vez que estés en la página Appsource de la App, haga clic en **Obtenerla Ahora** .
 
 ![Marketplace](/assets/images/biapps/obtener_covid.png)
 
-3. Cuando se le solicite, haga clic en Instalar . Una vez que la aplicación se haya instalado, la verá en su página de aplicaciones.
+- Cuando se le solicite, haga clic en Instalar . Una vez que la aplicación se haya instalado, la verá en su página de aplicaciones.
 
 ![](/assets/images/biapps/AppsCovid.png)
 
-## Conectarse a fuentes de datos
+## 2. Conectarse a fuentes de datos
 
-1. Haga clic en el icono en su página de aplicaciones para abrir la aplicación.
+- Haga clic en el icono en su página de aplicaciones para abrir la aplicación.
 
-2. En la pantalla de inicio que aparece, elija **Conectar** .
+- En la pantalla de inicio que aparece, elija **Conectar** .
 
 ![](/assets/images/biapps/Conectar.png)
 
-3. Aparecerán dos cuadros de diálogo de inicio de sesión, uno tras otro. En ambos, establezca el nivel de privacidad en Público.
+- Aparecerán dos cuadros de diálogo de inicio de sesión, uno tras otro. En ambos, establezca el nivel de privacidad en Público.
 
 ![](/assets/images/biapps/Datos2.png)
 
@@ -45,11 +45,11 @@ El informe se conectará a las fuentes de datos y se completará con datos actua
 
 ![](/assets/images/biapps/datos.png)
 
-## Programar actualización de informe
+## 3. Programar actualización de informe
 
 Cuando se complete la actualización de datos, estará en el espacio de trabajo asociado con la aplicación. [Configure un programa de actualización](https://docs.microsoft.com/en-us/power-bi/connect-data/refresh-scheduled-refresh) para mantener actualizados los datos del informe.
 
-## Personaliza y comparte
+## 4. Personaliza y comparte
 
 [Consulte Personalizar y compartir](https://docs.microsoft.com/es-us/power-bi/connect-data/service-template-apps-install-distribute#customize-and-share-the-app) la aplicación para más detalles. Asegúrese de revisar las renuncias de responsabilidad del informe antes de publicar o distribuir la aplicación.
 
