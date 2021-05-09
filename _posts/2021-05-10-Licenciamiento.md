@@ -4,11 +4,11 @@ classes: wide
 author_profile: true
 author: Esteban Londono
 title: "¿Como empezar a usar Power BI en tu Organización?"
-excerpt: "Guía de Licenciamiento y Precios de Power BI "
+excerpt: "Guía de Licenciamiento y Precios de Power BI. Hemos notado que esta confusión en torno a los precios y licenciamiento de Power BI, se genera porque a Microsoft le encanta hacer que las licencias sean flexibles, pero termina con demasiadas opciones que son francamente confusas.Este articulo puede servir como una guía interna de referencia rápida. "
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/wide/BIConcept.jpg
+  overlay_image: assets/images/wide/dataanalyst.png
   teaser: assets/images/cuadrado/BI4.jpg
 categories:
   - Introduccion
@@ -19,8 +19,8 @@ categories:
 - ¿Power BI es Gratis?
 - ¿Qué se requiere para empezar con Power BI?
 
-Hemos notado esta confusión en torno a los precios y licenciamiento de Power BI, se genera porque a Microsoft le encanta hacer que las licencias sean flexibles, pero termina con demasiadas opciones que son francamente confusas.
-Este articulo puede servir como una guía interna de referencia rápida. 
+Hemos notado que esta confusión en torno a los precios y licenciamiento de Power BI, se genera porque a Microsoft le encanta hacer que las licencias sean flexibles, pero termina con demasiadas opciones que son francamente confusas.
+**Este articulo puede servir como una guía interna de referencia rápida.** 
 
 Introducción
 A la fecha de la escritura de este artículo (10-05-2021) existen al menos cinco [tipos de licencias](https://powerbi.microsoft.com/es-es/pricing/) que Microsoft ofrece para satisfacer las necesidades de sus clientes.
@@ -65,6 +65,7 @@ Los escenarios en los que Power BI Premium por usuario pueden ser interesantes:
 -	Un departamento (que es parte de una organización grande) o una organización de tamaño pequeño a mediano, que quiere ser autosuficiente en Analytics y requiere las características más avanzadas de Power BI puede comenzar a un costo razonable con Power BI Premium por usuario.
 -	Si desea desarrollar informes paginados imprimibles y con píxeles perfectos, como parte de una Prueba de concepto, puede comenzar poco a poco asignando licencias Premium por usuario a los usuarios. Cuando la Prueba de concepto es exitosa, puede continuar asignando más licencias Premium por usuario a los usuarios con los que desea compartir informes, o puede elegir Power BI Premium.
 Tenga en cuenta que los artefactos de Power BI creados dentro de un área de trabajo de Power BI Premium por usuario solo pueden ser consumidos por usuarios con licencia Premium por usuario. Por ejemplo: si un conjunto de datos se crea y se aloja en un espacio de trabajo Premium por usuario, cualquier usuario debe tener una licencia Premium por usuario para ver / acceder al contenido en un espacio de trabajo Premium por usuario.
+
 ## Capacidad Premium:
 Power BI Premium es el 'nivel' más alto disponible; Premium desbloquea actualizaciones adicionales, límites de almacenamiento de datos más altos, capacidad informática dedicada, capacidades de inteligencia artificial y licencias efectivas ilimitadas y no administradas . Los diversos 'nodos' de Premium solo se relacionan con la potencia informática con licencia. Puede comprar más o menos capacidad en función del nodo que elija. La prima comienza en ~  $ 5,000,  USD esto significa que no es rentable trasladar su organización a PBI-P mientras tenga menos de 500 usuarios.
 
