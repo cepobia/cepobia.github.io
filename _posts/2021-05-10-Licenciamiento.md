@@ -25,7 +25,7 @@ Hemos notado que esta confusión en torno a los precios y licenciamiento de Powe
 Introducción
 A la fecha de la escritura de este artículo (10-05-2021) existen al menos cinco [tipos de licencias](https://powerbi.microsoft.com/es-es/pricing/) que Microsoft ofrece para satisfacer las necesidades de sus clientes.
 
-![Comparacion Licencias Power BI](/assets/images/post/licenciamiento/ComparacionLicenciasPowerBI.PNG)
+![Comparación Licencias Power BI](/assets/images/post/licenciamiento/ComparacionLicenciasPowerBI.PNG)
 
 ## Power BI Free (gratis)
 Totalmente gratis obtienes acceso completo a Power BI Desktop [Descarga]( https://powerbi.microsoft.com/es-es/desktop/) la herramienta de diseño y creación de reportes dinámicos. Power BI gratis es la experiencia completa del diseñador de Power BI . Puede crear informes completos para su organización sin gastar un centavo.
