@@ -78,3 +78,5 @@ Microsoft Power BI Embedded permite a los desarrolladores de aplicaciones insert
 La flexibilidad con muchas opciones es un arma de doble filo. Por un lado, puede mezclar y combinar para satisfacer sus necesidades exactas, pero hay muchas consideraciones incluso para lo que parecen ser las decisiones más pequeñas y fáciles.
 No esta seguro de cual es la estrategia de licencias adecuada para su organización [contactenos](https://cepobia.com/contacto/)
 
+
+
