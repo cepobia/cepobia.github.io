@@ -131,10 +131,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "(+57)318 388 31 45"
+    - label: "whatsapp"
       icon: "fab fa-fw fa-whatsapp"
       url: "https://api.whatsapp.com/send?phone=573183883145&text=Hola,%20quiero%20conocer%20mas%20sobre%20sus%20servicios"
-    - label: "admon@cepobia.com"
+    - label: "info@cepobia.com"
       icon: "fas fa-envelope"
       url: "mailto:info@cepobia.com"
     - label: "Linkedin"
