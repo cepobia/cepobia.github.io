@@ -136,7 +136,7 @@ footer:
       url: "https://api.whatsapp.com/send?phone=573183883145&text=Hola,%20quiero%20conocer%20mas%20sobre%20sus%20servicios"
     - label: "admon@cepobia.com"
       icon: "fas fa-envelope"
-      url: "mailto:admon@cepobia.com"
+      url: "mailto:info@cepobia.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/cepobia/about/"
