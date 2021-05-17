@@ -24,7 +24,7 @@ El principal objetivo de nuestros servicios de consultoría es la generación de
 Potenciamos tu negocio a través de los datos, entregando soluciones analíticas que permiten medir las principales variables e indicadores, te ayudamos a obtener información predictiva que te apoyará para tomar mejores decisiones y acciones.
 
 <p align="center">
-  <img width="500" height="300" src="/assets/images/cuadrado/procesodata.png">
+  <img width="500" height="300" alt="Generacion Valor a partir de los Datos" src="/assets/images/cuadrado/procesodata.png">
 </p>
 
 ## Business Intelligence
