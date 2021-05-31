@@ -11,6 +11,12 @@ header:
 excerpt: "Completá el formulario y entremos en contacto  para guiarte en la generación de valor a partir de tus datos"
 ---
 
+<!-- Principio del widget integrado de Calendly -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/cepobia/hablemos?primary_color=0081c9" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Final del widget integrado de Calendly 
+
+<!--
 <div pbi-resize="powerbi" pbi-resize-src="https://forms.office.com/Pages/ResponsePage.aspx?id=x2FdYyUOU0mgF1_nDiHVzWTg1xC9wcZNpPO7fofyC3FUNVlDWERYWTZDUEtCVzRQR0pBMEYzSzExUSQlQCN0PWcu" pbi-resize-min-width="700" pbi-default-width="600px" pbi-default-height="308" pbi-resize-width="9" pbi-resize-height="10" pbi-resize-load-event="page-load" pbi-resize-header="true" pbi-resize-m-src="https://forms.office.com/Pages/ResponsePage.aspx?id=x2FdYyUOU0mgF1_nDiHVzWTg1xC9wcZNpPO7fofyC3FUNVlDWERYWTZDUEtCVzRQR0pBMEYzSzExUSQlQCN0PWcu" pbi-resize-m-width="9" pbi-resize-m-height="25" style="position: relative;"><iframe frameborder="0" allowfullscreen="true"></iframe></div><script type="text/javascript">
 !function(){if("undefined"==typeof window.powerbiresizescript){window.powerbiresizescript=1;window.onmessage=function(event){var isReportPageLoadedEvent=function(event){try{if(event&&event.data&&event.data.url==='/reports/undefined/events/pageChanged'){return!0}}catch(error){return undefined}};if(isReportPageLoadedEvent(event)){var iframe=getIframeElement(event.source)
 setTimeout(function(){if(iframe&&iframe.parentNode.children.length>1){switch(iframe.parentNode.getAttribute('pbi-resize-load-event')){case 'click':showElement(iframe);break;case 'page-load':case 'seconds-timeout':case 'in-view':var button=getChildByTag(iframe.parentNode,'div');setButtonState(button,'readynow');break}}},(iframe.parentNode.getAttribute('pbi-resize-delay-show')||1)*1000)}};function getChildByTag(parent,tagName){if(parent){for(var i=0;i<parent.children.length;i++){if(parent.children[i].tagName.toLowerCase()===tagName.toLowerCase()){return parent.children[i]}}}
@@ -61,3 +67,4 @@ function loadIframe(parent,src){var iframe=getChildByTag(parent,'iframe');var bu
                 }\
             }';style.innerHTML=keyFrames;document.getElementsByTagName('head')[0].appendChild(style);iframe.setAttribute('src',src);iframe.setAttribute('frameborder','0');iframe.setAttribute('allowFullScreen','true');setButtonState(button,'loading')}}}();
 </script>
+-->
