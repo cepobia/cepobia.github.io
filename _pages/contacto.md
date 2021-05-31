@@ -16,11 +16,6 @@ excerpt: "Agenda tu videollamada y entremos en contacto  para guiarte en la gene
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Final del widget integrado de Calendly 
 
-<!-- Principio del widget de globo de Calendly -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/cepobia/hablemos', text: 'Programe una reunión conmigo', color: '#006bff', textColor: '#ffffff', branding: false }); }</script>
-<!-- Final del widget de globo de Calendly -->
 
 <!--
 <div pbi-resize="powerbi" pbi-resize-src="https://forms.office.com/Pages/ResponsePage.aspx?id=x2FdYyUOU0mgF1_nDiHVzWTg1xC9wcZNpPO7fofyC3FUNVlDWERYWTZDUEtCVzRQR0pBMEYzSzExUSQlQCN0PWcu" pbi-resize-min-width="700" pbi-default-width="600px" pbi-default-height="308" pbi-resize-width="9" pbi-resize-height="10" pbi-resize-load-event="page-load" pbi-resize-header="true" pbi-resize-m-src="https://forms.office.com/Pages/ResponsePage.aspx?id=x2FdYyUOU0mgF1_nDiHVzWTg1xC9wcZNpPO7fofyC3FUNVlDWERYWTZDUEtCVzRQR0pBMEYzSzExUSQlQCN0PWcu" pbi-resize-m-width="9" pbi-resize-m-height="25" style="position: relative;"><iframe frameborder="0" allowfullscreen="true"></iframe></div><script type="text/javascript">
