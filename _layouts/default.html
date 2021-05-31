@@ -13,7 +13,11 @@
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
+     <!-- Principio del widget de globo de Calendly -->
+     <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+     <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+     <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/cepobia/hablemos', text: 'Hablemos', color: '#FFB718', textColor: '#ffffff', branding: false }); }</script>
+     <!-- Final del widget de globo de Calendly -->
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
     {% include_cached browser-upgrade.html %}
@@ -29,11 +33,7 @@
       </div>
     {% endif %}
 
-    <!-- Principio del widget de globo de Calendly -->
-    <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-    <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-    <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/cepobia/hablemos', text: 'Hablemos', color: '#FFB718', textColor: '#ffffff', branding: false }); }</script>
-    <!-- Final del widget de globo de Calendly -->
+
 
     <div class="page__footer">
       <footer>
