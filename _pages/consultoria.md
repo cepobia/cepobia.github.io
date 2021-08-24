@@ -10,7 +10,7 @@ header:
   - label: "Hablemos"
     url: "/contacto/"
 
-excerpt: "Te guiamos en la generación de valor a partir de tus datos"
+excerpt: "Te guiamos en la generación de valor a partir de tus datos, asesorandote en el uso de las principales tecnologías como Power BI, Azure, Data factory, SQL"
 title: "Consultoría"
 
 ---

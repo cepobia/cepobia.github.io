@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"  
   overlay_image: assets/images/wide/wconsultancy.jpg
-excerpt: "Queremos ayudar a las personas a tener éxito con la gestión de sus datos. Creemos que, la capacitación y las herramientas adecuadas, pueden lograr que tome mejores decisiones eliminando lo desconocido. Asuma el control de sus datos y sea más fuerte y competitivo cada día."
+excerpt: "Somos consultores expertos en Power BI y en las diferentes tecnologias del ecosistema de datos de Microsoft nuestro, somos Partners de Microsoft, con más de 10 años de experiencia.  queremos ayudar a las personas a tener éxito con la gestión de sus datos. Creemos que, la capacitación y las herramientas adecuadas, pueden lograr que tome mejores decisiones eliminando lo desconocido. Asuma el control de sus datos y sea más fuerte y competitivo cada día."
 ---
 
 ## Nuestra Misión
@@ -35,7 +35,7 @@ Somos profesionales con mas de 10 años de experiencia en Business intelligence,
 
 - Negocio: Analistas con años de experiencia en consultoría estratégica, Analisis de Financiero e implementación tecnológica. Su labor es entender profundamente a los clientes y elaborar proyectos que les generen beneficios concretos.
 
-- Técnico: Especialistas en dominio en las tecnologías de vanguardia en el mundo de los datos como  SQL, Python y Spark, 
+- Técnico: Especialistas en dominio en las tecnologías de vanguardia en el mundo de los datos como Power BI, Azure, SQL, Python, Databricks - Spark..
 
 ## Certificaciones de Nuestro Equipo
 
