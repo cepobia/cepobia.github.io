@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"  
   overlay_image: assets/images/wide/wconsultancy.jpg
-excerpt: "Somos consultores expertos en Power BI y en las diferentes tecnologias del ecosistema de datos de Microsoft nuestro, somos Partners de Microsoft, con más de 10 años de experiencia.  queremos ayudar a las personas a tener éxito con la gestión de sus datos. Creemos que, la capacitación y las herramientas adecuadas, pueden lograr que tome mejores decisiones eliminando lo desconocido. Asuma el control de sus datos y sea más fuerte y competitivo cada día."
+excerpt: "Somos Partners de Microsoft y consultores expertos en Power BI y la plataforma de datos en la nube de Azure, con más de 10 años de experiencia.  Queremos ayudar a las personas a tener éxito con la gestión de sus datos. Creemos que, la capacitación y las herramientas adecuadas, pueden lograr que tome mejores decisiones eliminando lo desconocido. Asuma el control de sus datos y sea más fuerte y competitivo cada día."
 ---
 
 ## Nuestra Misión

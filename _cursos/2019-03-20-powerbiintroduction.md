@@ -1,5 +1,5 @@
 ---
-title: "Introduccion a Power BI"
+title: "Capacitación - Introduccion a Power BI"
 layout: splash
 excerpt: "Desarrolla e implementa una solucion de Business Intelligence en una herramienta muy familiar"
 header:

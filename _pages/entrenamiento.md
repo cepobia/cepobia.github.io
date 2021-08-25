@@ -8,7 +8,7 @@ header:
   overlay_color: "#777779"
   overlay_filter: "0.5"
   overlay_image: /assets/images/wide/training.jpg
-excerpt: "Sin datos, solo eres otra persona con una opinión"
+excerpt: "Entrenate en Power BI y Excel. "Sin datos, solo eres otra persona con una opinión""
 ---
 
 Ayudamos a los equipos de trabajo de cada organización a entender el potencial que tienen sus datos, para que generen estrategias concretas, definan roles y encuentren nuevas oportunidades de negocio. Con nuestros programas de entrenamiento, queremos que todas las empresas que trabajan con Analítica de Datos tengan el know-how y visión suficientes para lograr proyectos exitosos.
