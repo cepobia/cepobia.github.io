@@ -2,7 +2,7 @@
 title: "Entrenamiento"
 layout: splash
 permalink: /entrenamiento/
-collections: cursos
+#collections: cursos
 author_profile: false
 header:
   overlay_color: "#777779"
